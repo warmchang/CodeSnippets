@@ -7,5 +7,5 @@ MAC address.
 Output:
 The ciphertext.
 
-build:
+Build:
 gcc -static -Os -o desstamac desstamac.c -lcrypto
