@@ -1,0 +1,4099 @@
+  - user_agent_string: 'AppleCoreMedia/1.0.0.12F69 (Apple TV; U; CPU OS 8_3 like Mac OS X; en_us)'
+    family: 'AppleTV'
+    brand: 'Apple'
+    model: 'AppleTV'
+
+  - user_agent_string: 'Opera/9.80 (BlackBerry; Opera Mini/7.0.31437/28.3030; U; en) Presto/2.8.119 Version/11.10'
+    family: 'BlackBerry'
+    brand: 'BlackBerry'
+    model:
+
+  - user_agent_string: 'Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; en-GB) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.398 Mobile Safari/534.11+'
+    family: 'BlackBerry 9320'
+    brand: 'BlackBerry'
+    model: '9320'
+
+  - user_agent_string: 'Mozilla/5.0 (PlayBook; U; RIM Tablet OS 1.0.0; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/0.0.1 Safari/534.8+'
+    family: 'BlackBerry Playbook'
+    brand: 'BlackBerry'
+    model: 'Playbook'
+
+  - user_agent_string: 'Mozilla/5.0 (BB10; Touch) AppleWebKit/537.3+ (KHTML, like Gecko) Version/10.0.9.388 Mobile Safari/537.3+'
+    family: 'BlackBerry Touch'
+    brand: 'BlackBerry'
+    model: 'Touch'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2; Galaxy Nexus Build/JOP40C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Samsung Galaxy Nexus'
+    brand: 'Samsung'
+    model: 'Galaxy Nexus'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 3.0.1; en-us; GT-P7510 Build/HRI83) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13'
+    family: 'Samsung GT-P7510'
+    brand: 'Samsung'
+    model: 'GT-P7510'
+
+  - user_agent_string: 'Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.5; U; en-US) AppleWebKit/534.6 (KHTML, like Gecko) wOSBrowser/234.83 Safari/534.6 TouchPad/1.0'
+    family: 'HP TouchPad'
+    brand: 'HP'
+    model: 'TouchPad'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; en-gb; HTC Desire Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'HTC Desire'
+    brand: 'HTC'
+    model: 'Desire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.3; en-fr; HTC/WildfireS/1.33.163.2 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'HTC WildfireS'
+    brand: 'HTC'
+    model: 'WildfireS'
+
+  - user_agent_string: 'QQBrowser (Linux; U; zh-cn; HTC Hero Build/FRF91)'
+    family: 'HTC Hero'
+    brand: 'HTC'
+    model: 'Hero'
+
+  - user_agent_string: 'Huawei/1.0/0HuaweiG2800/WAP2.0/Obigo-Browser/Q03C MMS/Obigo-MMS/1.2'
+    family: 'Huawei G2800'
+    brand: 'Huawei'
+    model: 'G2800'
+
+  - user_agent_string: 'HUAWEI-M750/001.00 ACS-NetFront/3.2'
+    family: 'Huawei M750'
+    brand: 'Huawei'
+    model: 'M750'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10'
+    family: 'iPad'
+    brand: 'Apple'
+    model: 'iPad'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; fr; CPU iPhone OS 4_2_1 like Mac OS X; fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5'
+    family: 'iPhone'
+    brand: 'Apple'
+    model: 'iPhone'
+
+  - user_agent_string: 'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5'
+    family: 'iPod'
+    brand: 'Apple'
+    model: 'iPod'
+
+  - user_agent_string: 'Mozilla/5.0 (iPod touch; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.40 (KHTML, like Gecko) Version/6.0 Mobile/11A4400f Safari/8536.25'
+    family: 'iPod'
+    brand: 'Apple'
+    model: 'iPod'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; Linux 2.6.10) NetFront/3.3 Kindle/1.0 (screen 600x800)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 1.0'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; Kindle Fire Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Kindle Fire'
+    brand: 'Amazon'
+    model: 'Kindle Fire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFTT Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Silk/2.0 Safari/535.19 Silk-Accelerated=false'
+    family: 'Kindle Fire HD'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 7"'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFTT Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Kindle Fire HD'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 7"'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFTT Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Silk/2.2 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire HD'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 7"'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFSOWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.7 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire HD 7" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 7" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.6 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire HDX 7" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 7" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFTHWA Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.6 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire HDX 7" 4G'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 7" 4G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.6 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire HDX 8.9" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 8.9" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFAPWA Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.6 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire HDX 8.9" 4G'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 8.9" 4G'
+
+  - user_agent_string: 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.1.0-80) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16 Silk-Accelerated=true'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-us; KFOT Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Silk/2.1 Safari/535.19 Silk-Accelerated=true'
+    family: 'Kindle Fire'
+    brand: 'Amazon'
+    model: 'Kindle Fire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFOT Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Kindle Fire'
+    brand: 'Amazon'
+    model: 'Kindle Fire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 3.0'
+
+  - user_agent_string: 'NetFront/4.2 (BMP 1.0.4; U; en-us; LG; NetFront/4.2/AMB) Boost LG272 MMP/2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1'
+    family: 'Generic Feature Phone'
+    brand: 'Generic'
+    model: 'Feature Phone'
+
+  - user_agent_string: 'Opera/9.80 (BREW; Opera Mini/5.1.191/27.2202; U; en) Presto/2.8.119 240X400 LG VN271'
+    family: 'LG VN271'
+    brand: 'LG'
+    model: 'VN271'
+
+  - user_agent_string: 'Mozilla/5.0 (LG-T500 AppleWebkit/531 Browser/Phantom/V2.0 Widget/LGMW/3.0 MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1)'
+    family: 'LG T500'
+    brand: 'LG'
+    model: 'T500'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)'
+    family: 'Lumia 800'
+    brand: 'Nokia'
+    model: 'Lumia 800'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920)'
+    family: 'Lumia 920'
+    brand: 'Nokia'
+    model: 'Lumia 920'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Mobile Safari/537.36'
+    family: 'Nexus 5'
+    brand: 'LG'
+    model: 'Nexus 5'
+
+  - user_agent_string: 'Bunjalloo/0.7.6(Nintendo DS;U;en)'
+    family: 'Nintendo DS'
+    brand: 'Nintendo'
+    model: 'DS'
+
+  - user_agent_string: 'Opera/9.50 (Nintendo DSi; Opera/507; U; en-US)'
+    family: 'Nintendo DSi'
+    brand: 'Nintendo'
+    model: 'DSi'
+
+  - user_agent_string: 'Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7498.US'
+    family: 'Nintendo 3DS'
+    brand: 'Nintendo'
+    model: '3DS'
+
+  - user_agent_string: 'Opera/9.30 (Nintendo Wii; U; ; 3642; en)'
+    family: 'Nintendo Wii'
+    brand: 'Nintendo'
+    model: 'Wii'
+
+  - user_agent_string: 'Mozilla/5.0 (Nintendo WiiU) AppleWebKit/534.52 (KHTML, like Gecko) NX/2.1.0.8.21 NintendoBrowser/1.0.0.7494.US'
+    family: 'Nintendo Wii U'
+    brand: 'Nintendo'
+    model: 'Wii U'
+
+  - user_agent_string: 'Nokia201/2.0 (11.21) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokia201) UCBrowser8.3.0.154/70/355/UCWEB Mobile'
+    family: 'Nokia 201'
+    brand: 'Nokia'
+    model: '201'
+
+  - user_agent_string: 'iBrowser/Mini2.8 (Nokia5130c-2/07.97)'
+    family: 'Nokia 5130c-2'
+    brand: 'Nokia'
+    model: '5130c-2'
+
+  - user_agent_string: 'Nokia5320di/UCWEB8.0.3.99/28/999'
+    family: 'Nokia 5320di'
+    brand: 'Nokia'
+    model: '5320di'
+
+  - user_agent_string: 'Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/21.0.025; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413'
+    family: 'Nokia 5800d-1'
+    brand: 'Nokia'
+    model: '5800d-1'
+
+  - user_agent_string: 'NOKIA6120c/UC Browser7.4.0.65/28/352'
+    family: 'Nokia 6120c'
+    brand: 'Nokia'
+    model: '6120c'
+
+  - user_agent_string: 'Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia701/111.020.0307; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.1.14 Mobile Safari/533.4 3gpp-gba'
+    family: 'Nokia 701'
+    brand: 'Nokia'
+    model: '701'
+
+  - user_agent_string: 'OneBrowser/3.0 (NokiaC2-00/03.42)'
+    family: 'Nokia C2-00'
+    brand: 'Nokia'
+    model: 'C2-00'
+
+  - user_agent_string: 'Mozilla/5.0 (Series40; NokiaC2-03/07.48; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/2.2.0.0.33'
+    family: 'Nokia C2-03'
+    brand: 'Nokia'
+    model: 'C2-03'
+
+  - user_agent_string: 'Mozilla/5.0 (S60V5; U; en-us; NokiaC5-03) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.7.0.218/50/352/UCWEB Mobile'
+    family: 'Nokia C5-03'
+    brand: 'Nokia'
+    model: 'C5-03'
+
+  - user_agent_string: 'Mozilla/5.0 (Series40; NokiaX2-05/08.35; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/2.0.2.68.14'
+    family: 'Nokia X2-05'
+    brand: 'Nokia'
+    model: 'X2-05'
+
+  - user_agent_string: 'Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/013.016; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba'
+    family: 'Nokia N8'
+    brand: 'Nokia'
+    model: 'N8-00'
+
+  - user_agent_string: 'Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba'
+    family: 'Nokia N8'
+    brand: 'Nokia'
+    model: 'N8-00'
+
+  - user_agent_string: 'Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13'
+    family: 'Nokia N9'
+    brand: 'Nokia'
+    model: 'N9'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; XBLWP7; ZuneWP7)'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'IUC(U;iOS 5.1.1;Zh-cn;320*480;)/UCWEB7.9.0.94/41/997'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'J2ME/UCWEB7.0.3.45/139/7682'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'Mozilla/4.0 (BREW 3.1.5; U; en-us; Sanyo; NetFront/3.5.1/AMB) Boost SCP3810'
+    family: 'Generic Smartphone'
+    brand: 'Generic'
+    model: 'Smartphone'
+
+  - user_agent_string: 'Mozilla/4.0 (Brew MP 1.0.2; U; en-us; Sanyo; NetFront/3.5.1/AMB) Sprint E4100'
+    family: 'SprintE4100'
+    brand: 'Sprint'
+    model: 'E4100'
+
+  - user_agent_string: 'NetFront/3.5.1 (BREW 3.1.5; U; en-us; LG; NetFront/3.5.1/WAP) Sprint LN240 MMP/2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1'
+    family: 'SprintLN240'
+    brand: 'Sprint'
+    model: 'LN240'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC)'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'NCSA_Mosaic/2.0 (Windows 3.1)'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.8.0.5) Gecko/20060728 Firefox/1.5.0.5'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'Mozilla/5.0 (Windows; U; Windows NT 6.1; zh_CN) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0 baidubrowser/1.x Safari/534.7'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; baidubrowser 1.x)'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'ICE Browser/5.05 (Java 1.4.0; Windows 2000 5.0 x86)'
+    family: 'Other'
+    brand:
+    model:
+
+  - user_agent_string: 'MQQBrowser/371 Mozilla/5.0 (iPhone 4S; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523 Safari/7534.48.3'
+    family: 'Generic Smartphone'
+    brand: 'Generic'
+    model: 'Smartphone'
+
+  - user_agent_string: 'Opera/9.80 (VRE; Opera Mini/4.2/28.2794; U; en) Presto/2.8.119 Version/11.10'
+    family: 'Generic Feature Phone'
+    brand: 'Generic'
+    model: 'Feature Phone'
+
+  - user_agent_string: 'Mozilla/5.0 (Mobile; rv:15.0) Gecko/15.0 Firefox/15.0'
+    family: 'Generic Smartphone'
+    brand: 'Generic'
+    model: 'Smartphone'
+
+  - user_agent_string: 'Mozilla/5.0 (Tablet; rv:29.0) Gecko/29.0 Firefox/29.0'
+    family: 'Generic Tablet'
+    brand: 'Generic'
+    model: 'Tablet'
+
+  - user_agent_string: 'PantechP6010/JNUS11072011 BMP/1.0.2 DeviceId/141020 NetFront/4.1 OMC/1.5.3 Profile/MIDP-2.1 Configuration/CLDC-1.1'
+    family: 'Pantech P6010'
+    brand: 'Pantech'
+    model: 'P6010'
+
+  - user_agent_string: 'PantechP7040/JLUS04042011 Browser/Obigo/Q05A OMC/1.5.3 Profile/MIDP-2.1 Configuration/CLDC-1.1'
+    family: 'Pantech P7040'
+    brand: 'Pantech'
+    model: 'P7040'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; PJ83100/2.20.502.7 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.0'
+    family: 'PJ83100/2.20.502.7'
+    brand: 'Generic_Android'
+    model: 'PJ83100/2.20.502.7'
+
+  - user_agent_string: 'Mozilla/5.0 (PLAYSTATION 3; 3.55)'
+    family: 'PlayStation 3'
+    brand: 'Sony'
+    model: 'PlayStation 3'
+
+  - user_agent_string: 'Mozilla/5.0 (PLAYSTATION 3 4.31) AppleWebKit/531.22.8 (KHTML, like Gecko)'
+    family: 'PlayStation 3'
+    brand: 'Sony'
+    model: 'PlayStation 3'
+
+  - user_agent_string: 'Mozilla/4.0 (PSP (PlayStation Portable); 2.00)'
+    family: 'PlayStation Portable'
+    brand: 'Sony'
+    model: 'PlayStation Portable'
+
+  - user_agent_string: 'Mozilla/5.0 (PlayStation Vita 1.81) AppleWebKit/531.22.8 (KHTML, like Gecko) Silk/3.2'
+    family: 'PlayStation Vita'
+    brand: 'Sony'
+    model: 'PlayStation Vita'
+
+  - user_agent_string: 'Mozilla/5.0 (PlayStation 4 1.75) AppleWebKit/536.26 (KHTML, like Gecko)'
+    family: 'PlayStation 4'
+    brand: 'Sony'
+    model: 'PlayStation 4'
+
+  - user_agent_string: 'SAMSUNG-C3053/1.0 Openwave/6.2.3 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0'
+    family: 'Samsung C3053'
+    brand: 'Samsung'
+    model: 'C3053'
+
+  - user_agent_string: 'OneBrowser/3.0 (SAMSUNG-GT-S5253/S5253DDKJ2)'
+    family: 'Samsung GT-S5253'
+    brand: 'Samsung'
+    model: 'GT-S5253'
+
+  - user_agent_string: 'Mozilla/3.0 (Planetweb/2.100 JS SSL US; Dreamcast US)'
+    family: 'Sega Dreamcast'
+    brand: 'Sega'
+    model: 'Dreamcast'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; SPH-L710 Build/JRO03L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Samsung SPH-L710'
+    brand: 'Samsung'
+    model: 'SPH-L710'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; SCH-L710 Build/JRO03L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Samsung SCH-L710'
+    brand: 'Samsung'
+    model: 'SCH-L710'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; SGH-L710 Build/JRO03L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Samsung SGH-L710'
+    brand: 'Samsung'
+    model: 'SGH-L710'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; SM-L710 Build/JRO03L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Samsung SM-L710'
+    brand: 'Samsung'
+    model: 'SM-L710'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux;U;Android 2.3.5;en-us;TECNO T3 Build/master) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'TECNO T3'
+    brand: 'Tecno'
+    model: 'T3'
+
+  - user_agent_string: 'Mozilla/5.0 (X11i; Linux; C) AppleWebKikt/533.3 (KHTML, like Gecko) QtCarBrowser Safari/533.3'
+    family: 'Tesla Model S'
+    brand: 'Tesla'
+    model: 'Model S'
+
+  - user_agent_string: 'Mozilla/4.0 WebTV/2.6 (compatible; MSIE 4.0)'
+    family: 'WebTV'
+    brand: 'Generic_Inettv'
+    model: 'WebTV'
+
+  - user_agent_string: 'AdsBot-Google-Mobile (+http://www.google.com/mobile/adsbot.html) Mozilla (iPhone; U; CPU iPhone OS 3 0 like Mac OS X) AppleWebKit (KHTML, like Gecko) Mobile Safari'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Smartphone'
+
+  - user_agent_string: 'magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Smartphone'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Smartphone'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; en-; GT-N7000 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Samsung GT-N7000'
+    brand: 'Samsung'
+    model: 'GT-N7000'
+
+  - user_agent_string: 'HbbTV/1.1.1 (;Panasonic;VIERA 2012;1.261;0071-3103 2000-0000;)'
+    family: 'HbbTV'
+    brand: 'Panasonic'
+    model: 'VIERA 2012'
+
+  - user_agent_string: 'Mozilla/5.0 (Unknown; Linux armv7l) AppleWebKit/537.1+ (KHTML, like Gecko) Safari/537.1+ HbbTV/1.1.1 ( ;LGE ;NetCast 4.0 ;03.20.30 ;1.0M ;)'
+    family: 'HbbTV'
+    brand: 'LG'
+    model: 'NetCast 4.0'
+
+  - user_agent_string: 'Mozilla/5.0 (DirectFB; Linux armv7l) AppleWebKit/534.26+ (KHTML, like Gecko) Version/5.0 Safari/534.26+ HbbTV/1.1.1 ( ;LGE ;NetCast 3.0 ;1.0 ;1.0M ;)'
+    family: 'HbbTV'
+    brand: 'LG'
+    model: 'NetCast 3.0'
+
+  - user_agent_string: 'Opera/9.80 (Linux armv7l; HbbTV/1.1.1 (; Sony; KDL32W650A; PKG3.211EUA; 2013;); ) Presto/2.12.362 Version/12.11'
+    family: 'HbbTV'
+    brand: 'Sony'
+    model: 'KDL32W650A'
+
+  - user_agent_string: 'HbbTV/1.1.1 (;Samsung;SmartTV2013;T-FXPDEUC-1102.2;;) WebKit'
+    family: 'HbbTV'
+    brand: 'Samsung'
+    model: 'SmartTV2013'
+
+  - user_agent_string: 'HbbTV/1.1.1 (;Samsung;SmartTV2013;T-MST12DEUC-1102.1;;) WebKit'
+    family: 'HbbTV'
+    brand: 'Samsung'
+    model: 'SmartTV2013'
+
+  - user_agent_string: 'HbbTV/1.2.1 (;Panasonic;VIERA 2013;3.672;4101-0003 0002-0000;)'
+    family: 'HbbTV'
+    brand: 'Panasonic'
+    model: 'VIERA 2013'
+
+  - user_agent_string: 'HbbTV/1.1.1 (;Samsung;SmartTV2012;;;) WebKit'
+    family: 'HbbTV'
+    brand: 'Samsung'
+    model: 'SmartTV2012'
+
+  - user_agent_string: 'Opera/9.80 (Linux mips ; U; HbbTV/1.1.1 (; Philips; ; ; ; ) CE-HTML/1.0 NETTV/3.2.1; en) Presto/2.6.33 Version/10.70'
+    family: 'HbbTV'
+    brand: 'Philips'
+    model:
+
+  - user_agent_string: 'HbbTV/1.1.1 (;;;;;) Maple_2011'
+    family: 'HbbTV'
+    brand: 'Samsung'
+    model: 'HbbTV'
+
+  - user_agent_string: 'Opera/9.80 (Linux mips; U;  HbbTV/1.1.1 (; Sony; KDL22EX320; PKG4.017EUA; 2011;);; en) Presto/2.7.61 Version/11.00'
+    family: 'HbbTV'
+    brand: 'Sony'
+    model: 'KDL22EX320'
+
+  - user_agent_string: 'HbbTV/1.1.1 (;Panasonic;VIERA 2011;f.532;0071-0802 2000-0000;)'
+    family: 'HbbTV'
+    brand: 'Panasonic'
+    model: 'VIERA 2011'
+
+  - user_agent_string: 'HbbTV/1.1.1 (;;;;;) firetv-firefox-plugin 1.1.20'
+    family: 'HbbTV'
+    brand:
+    model: 'HbbTV'
+
+  - user_agent_string: 'Opera/9.80 (Linux armv7l; U; NETRANGEMMH;HbbTV/1.1.1;CE-HTML/1.0;Vendor/THOM;SW-Version/V8-MT51F01-LF1V307;Cnt/DEU;Lan/bul) Presto/2.12.362 Version/12.11'
+    family: 'HbbTV'
+    brand: 'Thomson'
+    model: 'LF1V307'
+
+  - user_agent_string: 'Opera/9.80 (Linux armv7l; U; NETRANGEMMH;HbbTV/1.1.1;CE-HTML/1.0;Vendor/THOMSON;SW-Version/V8-MT51F01-LF1V325;Cnt/HRV;Lan/swe; NETRANGEMMH;HbbTV/1.1.1;CE-HTML/1.0) Presto/2.12.362 Version/12.11'
+    family: 'HbbTV'
+    brand: 'Thomson'
+    model: 'LF1V325'
+
+  - user_agent_string: 'Netvibes (http://www.netvibes.com)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Sogou Pic Spider/3.0(+http://www.sogou.com/docs/help/webmasters.htm#07)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'ICC-Crawler/2.0 (Mozilla-compatible; ; http://kc.nict.go.jp/project1/crawl.html; zurukko1552995316;)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Innovazion Crawler/Nutch-1.7'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'NING/1.0'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) MsnBot-Media /1.0b'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; MSIE or Firefox mutant; not on Windows server; + http://tab.search.daum.net/aboutWebSearch.html) Daumoa/3.0'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; EtaoSpider/1.0; http://open.etao.com/dev/EtaoSpider)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'A6-Indexer/1.0 (http://www.a6corp.com/a6-web-scraping-policy/)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'YisouSpider'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Riddler (http://riddler.io/about.html)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; SAMSUNG-SGH-I717 Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.131 Mobile Safari/537.36'
+    family: 'Samsung SGH-I717'
+    brand: 'Samsung'
+    model: 'SGH-I717'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; SAMSUNG GT-I9100/I9100XWLSY Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Samsung GT-I9100'
+    brand: 'Samsung'
+    model: 'GT-I9100'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; SCH-I605 Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36'
+    family: 'Samsung SCH-I605'
+    brand: 'Samsung'
+    model: 'SCH-I605'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 3.2; en-us; SGH-T869 Build/HTJ85B) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13'
+    family: 'Samsung SGH-T869'
+    brand: 'Samsung'
+    model: 'SGH-T869'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; PantechP8010 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 ACHEETAHI/2100050072'
+    family: 'Pantech P8010'
+    brand: 'Pantech'
+    model: 'P8010'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; lk-a,; F-10D Build/V12R44A) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'F-10D'
+    brand: 'Fujitsu'
+    model: 'F-10D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.4; zh-cn; sprd-SPHS-on-Hsdroid/1.0 Android/4.4 Release/06.03.2013 Browser/AppleWebKit533.1 Build/MocorDroid2.3.5) AppleWebKit533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'sprd SPHS-on-Hsdroid'
+    brand: 'sprd'
+    model: 'SPHS-on-Hsdroid'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; in-id; SonyLT30p Build/9.1.A.0.489) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Sony LT30p'
+    brand: 'Sony'
+    model: 'LT30p'
+
+  - user_agent_string: 'Mozilla/5.1 (compatible; DBot/7.5.6; +http://a14download.com)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'wsr-agent/1.0'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; ZTE-Z830 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36'
+    family: 'ZTE Z830'
+    brand: 'ZTE'
+    model: 'Z830'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; ZTE Z830 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36'
+    family: 'ZTE Z830'
+    brand: 'ZTE'
+    model: 'Z830'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; ZTE_Z830 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36'
+    family: 'ZTE Z830'
+    brand: 'ZTE'
+    model: 'Z830'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SBM200SH Build/S1006) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 YJApp-ANDROID jp.co.yahoo.android.yjtop/2.4.10'
+    family: 'SBM200SH'
+    brand: 'Sharp'
+    model: 'SBM200SH'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; DROID RAZR HD Build/KDA20.62-10.1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 ACHEETAHI/2100050068'
+    family: 'Motorola DROID RAZR HD'
+    brand: 'Motorola'
+    model: 'DROID RAZR HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; DROID BIONIC 4G Build/5.5.1_84_DBN-71) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Motorola DROID BIONIC 4G'
+    brand: 'Motorola'
+    model: 'DROID BIONIC 4G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; DROID RAZR Build/9.8.2O-72_VZW-16-5) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16'
+    family: 'Motorola DROID RAZR'
+    brand: 'Motorola'
+    model: 'DROID RAZR'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; DROID2 Build/4.5.1_57_DR4-52) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Motorola DROID2'
+    brand: 'Motorola'
+    model: 'DROID2'
+
+  - user_agent_string: 'Xenu Link Sleuth/1.3.8'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; PaperLiBot/2.1; http://support.paper.li/entries/20023257-what-is-paper-li)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; SputnikBot/2.3; +http://corp.sputnik.ru/webmaster)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'CCBot/2.0 (http://commoncrawl.org/faq/)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'ProoXiBot'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Scrapy/0.20.1 (+http://scrapy.org)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Screaming Frog SEO Spider/2,55'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'YahooCacheSystem'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'CiBra Data Collector (http://cibra.de/)'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'agent6/Nutch-1.1'
+    family: 'Spider'
+    brand: 'Spider'
+    model: 'Desktop'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; BC9710AM Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: '3Q BC9710AM'
+    brand: '3Q'
+    model: 'BC9710AM'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; LC0720C Build/IMM76I) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.123 Safari/537.22'
+    family: '3Q LC0720C'
+    brand: '3Q'
+    model: 'LC0720C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; LC0723B Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q LC0723B'
+    brand: '3Q'
+    model: 'LC0723B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; LC0725B Build/IMM76I) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: '3Q LC0725B'
+    brand: '3Q'
+    model: 'LC0725B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; LC0810C Build/IMM76I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36'
+    family: '3Q LC0810C'
+    brand: '3Q'
+    model: 'LC0810C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U;Android4.1.1;de-de; LC0816C Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 4.1.1; de-de; Build/JRO03CSafari/534.30'
+    family: '3Q LC0816C'
+    brand: '3Q'
+    model: 'LC0816C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; LC0901D Build/20131211) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: '3Q LC0901D'
+    brand: '3Q'
+    model: 'LC0901D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; LC1016C Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36'
+    family: '3Q LC1016C'
+    brand: '3Q'
+    model: 'LC1016C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; RC0709B Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36 OPR/19.0.1340.69721'
+    family: '3Q RC0709B'
+    brand: '3Q'
+    model: 'RC0709B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; RC0710B Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: '3Q RC0710B'
+    brand: '3Q'
+    model: 'RC0710B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; RC0718C Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 YaBrowser/14.7.1916.15666.00 Safari/537.36'
+    family: '3Q RC0718C'
+    brand: '3Q'
+    model: 'RC0718C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-us; RC0719H Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: '3Q RC0719H'
+    brand: '3Q'
+    model: 'RC0719H'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; RC0721B Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: '3Q RC0721B'
+    brand: '3Q'
+    model: 'RC0721B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; RC0722C Build/JRO03H) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.123 Safari/537.22 OPR/14.0.1025.52315'
+    family: '3Q RC0722C'
+    brand: '3Q'
+    model: 'RC0722C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; RC0738C Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC0738C'
+    brand: '3Q'
+    model: 'RC0738C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; RC0813C Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36 OPR/16.0.1212.65402'
+    family: '3Q RC0813C'
+    brand: '3Q'
+    model: 'RC0813C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; RC0813CM Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC0813CM'
+    brand: '3Q'
+    model: 'RC0813CM'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-at; RC0817C Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC0817C'
+    brand: '3Q'
+    model: 'RC0817C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; uk-us; RC1018C Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC1018C'
+    brand: '3Q'
+    model: 'RC1018C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; RC7802F Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC7802F'
+    brand: '3Q'
+    model: 'RC7802F'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; cs-cz; RC9711B Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC9711B'
+    brand: '3Q'
+    model: 'RC9711B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; RC9712C Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC9712C'
+    brand: '3Q'
+    model: 'RC9712C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; RC9716B Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: '3Q RC9716B'
+    brand: '3Q'
+    model: 'RC9716B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; RC9717B Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 YaBrowser/14.5.1847.18432.00 Safari/537.36'
+    family: '3Q RC9717B'
+    brand: '3Q'
+    model: 'RC9717B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; RC9724C Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC9724C'
+    brand: '3Q'
+    model: 'RC9724C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-at; RC9730C Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: '3Q RC9730C'
+    brand: '3Q'
+    model: 'RC9730C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; RC9731C Build/JRO03H) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 YaBrowser/1.0.1364.172 Safari/537.22'
+    family: '3Q RC9731C'
+    brand: '3Q'
+    model: 'RC9731C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; 3Q_ER71B Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: '3Q ER71B'
+    brand: '3Q'
+    model: 'ER71B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; A1-810 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'A1-810'
+    brand: 'Acer'
+    model: 'A1-810'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; A1-811 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'A1-811'
+    brand: 'Acer'
+    model: 'A1-811'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; A1-830 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36'
+    family: 'A1-830'
+    brand: 'Acer'
+    model: 'A1-830'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A100 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/53'
+    family: 'A100'
+    brand: 'Acer'
+    model: 'A100'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 3.2.1; A101 Build/HTK55D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.123 Safari/537.22 OPR/14.0.1025.52315'
+    family: 'A101'
+    brand: 'Acer'
+    model: 'A101'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; A110 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'A110'
+    brand: 'Acer'
+    model: 'A110'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A200 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'A200'
+    brand: 'Acer'
+    model: 'A200'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; A210 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'A210'
+    brand: 'Acer'
+    model: 'A210'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; A211 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'A211'
+    brand: 'Acer'
+    model: 'A211'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A500 Build/IML74K) AppleWebKit/535.19 (KHTML'
+    family: 'A500'
+    brand: 'Acer'
+    model: 'A500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A501 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'A501'
+    brand: 'Acer'
+    model: 'A501'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A510 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/535.19'
+    family: 'A510'
+    brand: 'Acer'
+    model: 'A510'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A511 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'A511'
+    brand: 'Acer'
+    model: 'A511'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; A700 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'A700'
+    brand: 'Acer'
+    model: 'A700'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; A700 3G Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'A700 3G'
+    brand: 'Acer'
+    model: 'A700 3G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; A700 Lite Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'A700 Lite'
+    brand: 'Acer'
+    model: 'A700 Lite'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; A701 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'A701'
+    brand: 'Acer'
+    model: 'A701'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; B1-710 Build/JZO54K) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'B1-710'
+    brand: 'Acer'
+    model: 'B1-710'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; B1-711 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'B1-711'
+    brand: 'Acer'
+    model: 'B1-711'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; B1-A71 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'B1-A71'
+    brand: 'Acer'
+    model: 'B1-A71'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; DA220HQL Build/IMM76D) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'DA220HQL'
+    brand: 'Acer'
+    model: 'DA220HQL'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; DA222HQL Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 Safari/537.36'
+    family: 'DA222HQL'
+    brand: 'Acer'
+    model: 'DA222HQL'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Slider SL101 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'Slider SL101'
+    brand: 'Acer'
+    model: 'Slider SL101'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; V360 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'V360'
+    brand: 'Acer'
+    model: 'V360'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; V370 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'V370'
+    brand: 'Acer'
+    model: 'V370'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; W500 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'W500'
+    brand: 'Acer'
+    model: 'W500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; W700 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'W700'
+    brand: 'Acer'
+    model: 'W700'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 3.1; en-us; Acer Iconia Tab A500 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13'
+    family: 'A500'
+    brand: 'Acer'
+    model: 'A500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Iconia A500 Build/IMM76I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36'
+    family: 'Iconia A500'
+    brand: 'Acer'
+    model: 'Iconia A500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; Iconia A501 Build/IMM76L; CyanogenMod-Tegraowners ICS ROM v170 (thor & digetx)) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Iconia A501'
+    brand: 'Acer'
+    model: 'Iconia A501'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 1.6; de-de; Liquid Build/Donut) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1'
+    family: 'Liquid'
+    brand: 'Acer'
+    model: 'Liquid'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; de-de; Liquid Metal Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Liquid Metal'
+    brand: 'Acer'
+    model: 'Liquid Metal'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; Liquid MT Build/GRK39F) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31 OPR/14.0.1074.57453'
+    family: 'Liquid MT'
+    brand: 'Acer'
+    model: 'Liquid MT'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.7; de-de; Liquid Mt Build/GRI40; CyanogenMod-7) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Liquid Mt'
+    brand: 'Acer'
+    model: 'Liquid Mt'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.3; en-US; Liquid-Metal-S120 Build/8O5308)'
+    family: 'Liquid-Metal-S120'
+    brand: 'Acer'
+    model: 'Liquid-Metal-S120'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; S500 Build/IMM76I) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'S500'
+    brand: 'Acer'
+    model: 'S500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; S510 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31'
+    family: 'S510'
+    brand: 'Acer'
+    model: 'S510'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; Z110 Build/GRK39F) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.123 Mobile Safari/537.22 OPR/14.0.1025.52315'
+    family: 'Z110'
+    brand: 'Acer'
+    model: 'Z110'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; Z120 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Z120'
+    brand: 'Acer'
+    model: 'Z120'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Z130 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31'
+    family: 'Z130'
+    brand: 'Acer'
+    model: 'Z130'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Z150 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36'
+    family: 'Z150'
+    brand: 'Acer'
+    model: 'Z150'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.1; de-de; ACER E2 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ACER E2'
+    brand: 'Acer'
+    model: 'E2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.3; de-de; Acer E320 Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Acer E320'
+    brand: 'Acer'
+    model: 'E320'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; En-gb; Acer E320-orange Build/GRJ22) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Acer E320-orange'
+    brand: 'Acer'
+    model: 'E320-orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; Acer E330 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Acer E330'
+    brand: 'Acer'
+    model: 'E330'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.1; fr-fr; Acer Iconia A500 Build/ICS_MR0) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Acer Iconia A500'
+    brand: 'Acer'
+    model: 'Iconia A500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us; Acer Liquid Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Acer Liquid'
+    brand: 'Acer'
+    model: 'Liquid'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ACER Liquid E2 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'ACER Liquid E2'
+    brand: 'Acer'
+    model: 'Liquid E2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.1; de-; ACER LIQUID E2 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ACER LIQUID E2'
+    brand: 'Acer'
+    model: 'LIQUID E2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Acer Liquid Metal Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Acer Liquid Metal'
+    brand: 'Acer'
+    model: 'Liquid Metal'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Acer Z110 Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Acer Z110'
+    brand: 'Acer'
+    model: 'Z110'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Acer; Allegro)'
+    family: 'Acer Allegro'
+    brand: 'Acer'
+    model: 'Allegro'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0) AdMob;Octagon'
+    family: 'AdMob Octagon'
+    brand: 'AdMob'
+    model: 'Octagon'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Vega Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'Vega'
+    brand: 'Advent'
+    model: 'Vega'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; VegaBean Beta 5 Build/JRO03L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'VegaBean'
+    brand: 'Advent'
+    model: 'VegaBean'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 3.0.1; en-gb; VegaComb Build/HRI66) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13'
+    family: 'VegaComb'
+    brand: 'Advent'
+    model: 'VegaComb'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; Novo 10 Hero Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Novo 10 Hero'
+    brand: 'Ainol'
+    model: 'Novo 10 Hero'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; Novo 10 Hero QuadCore Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36'
+    family: 'Novo 10 Hero QuadCore'
+    brand: 'Ainol'
+    model: 'Novo 10 Hero QuadCore'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Novo 7 Aurora Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Novo 7 Aurora'
+    brand: 'Ainol'
+    model: 'Novo 7 Aurora'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; Ainol Novo 7 Aurora (TabletWarehouseUSA.com) Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Ainol Novo 7 Aurora (TabletWarehouseUSA.com)'
+    brand: 'Ainol'
+    model: 'Novo 7 Aurora (TabletWarehouseUSA.com)'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; en-gb; Novo 7 Crystal Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Novo 7 Crystal'
+    brand: 'Ainol'
+    model: 'Novo 7 Crystal'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Novo Captain Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36'
+    family: 'Novo Captain'
+    brand: 'Ainol'
+    model: 'Novo Captain'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Novo10 Captain QuadCore Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.12975 YaBrowser/13.12.1599.12975 Safari/537.36'
+    family: 'Novo10 Captain QuadCore'
+    brand: 'Ainol'
+    model: 'Novo10 Captain QuadCore'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Novo10 captain QuadCore Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36 OPR/18.0.1290.67495'
+    family: 'Novo10 captain QuadCore'
+    brand: 'Ainol'
+    model: 'Novo10 captain QuadCore'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Novo10 Catpain QuadCore Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36'
+    family: 'Novo10 Catpain QuadCore'
+    brand: 'Ainol'
+    model: 'Novo10 Catpain QuadCore'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; Novo10 Hero Build/20121115) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Novo10 Hero'
+    brand: 'Ainol'
+    model: 'Novo10 Hero'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Novo10 Hero QuadCore Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36 OPR/18.0.1290.67495'
+    family: 'Novo10 Hero QuadCore'
+    brand: 'Ainol'
+    model: 'Novo10 Hero QuadCore'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; novo7 Build/IML74K; CyanogenMod-9) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'novo7'
+    brand: 'Ainol'
+    model: 'novo7'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; NOVO7 Advanced Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'NOVO7 Advanced'
+    brand: 'Ainol'
+    model: 'NOVO7 Advanced'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; en-gb; Novo7 Advanced Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Novo7 Advanced'
+    brand: 'Ainol'
+    model: 'Novo7 Advanced'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Novo7 Aurora Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Novo7 Aurora'
+    brand: 'Ainol'
+    model: 'Novo7 Aurora'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Novo7 ELF Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.64 Safari/537.36'
+    family: 'Novo7 ELF'
+    brand: 'Ainol'
+    model: 'Novo7 ELF'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; Ainol Novo7 Flame Build/JRO03D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Ainol Novo7 Flame'
+    brand: 'Ainol'
+    model: 'Novo7 Flame'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; NOVO7 Mars Build/ICS.f06ref1024.20120619) AppleWebKit/534.31 (KHTML, like Gecko) UCBrowser/9.2.0.308 U3/0.8.0 Mobile Safari/534.31'
+    family: 'NOVO7 Mars'
+    brand: 'Ainol'
+    model: 'NOVO7 Mars'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; En-US; NOVO7 Tornados Build/ICS.f06ref848L.20120619) AppleWebKit/534.31 (KHTML, Like Gecko) UCBrowser/9.3.1.344 U3/0.8.0 Mobile Safari/534.31'
+    family: 'NOVO7 Tornados'
+    brand: 'Ainol'
+    model: 'NOVO7 Tornados'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; Novo7 Venus Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Novo7 Venus'
+    brand: 'Ainol'
+    model: 'Novo7 Venus'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; novo7_Advanced2 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'novo7_Advanced2'
+    brand: 'Ainol'
+    model: 'novo7_Advanced2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; Ar-eg; Novo7_Advanced2 Build/IML74K) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Safari/534.30'
+    family: 'Novo7_Advanced2'
+    brand: 'Ainol'
+    model: 'Novo7_Advanced2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3 JetROM; zh-tw; novo7_Aurora Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'novo7_Aurora'
+    brand: 'Ainol'
+    model: 'novo7_Aurora'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; zh-cn; Novo7_Aurora Build/IML74K; 1024*552) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1'
+    family: 'Novo7_Aurora'
+    brand: 'Ainol'
+    model: 'Novo7_Aurora'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Novo7_ELF Build/IML74K) AppleWebKit/537.36 (KHTML, Like Gecko) Chrome/29.0.1547.72 Safari/537.36 OPR/16.0.1212.65583'
+    family: 'Novo7_ELF'
+    brand: 'Ainol'
+    model: 'Novo7_ELF'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; novo7_ELF Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/535.19'
+    family: 'novo7_ELF'
+    brand: 'Ainol'
+    model: 'novo7_ELF'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; zh-cn; NOVO7_Mars Build/ICS.f06ref1024.20120518; 600*976) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1'
+    family: 'NOVO7_Mars'
+    brand: 'Ainol'
+    model: 'NOVO7_Mars'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; zh-cn; NOVO7_Tornados Build/ICS.f06ref848L.20120530; 800*444) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1'
+    family: 'NOVO7_Tornados'
+    brand: 'Ainol'
+    model: 'NOVO7_Tornados'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3 JetROM; en-us; Novo7-Aurora Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Novo7-Aurora'
+    brand: 'Ainol'
+    model: 'Novo7-Aurora'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; En-US; Novo7Advanced Build/GRJ22) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Novo7Advanced'
+    brand: 'Ainol'
+    model: 'Novo7Advanced'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; en-gb; Novo7Advanced(Century@HK) Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Novo7Advanced(Century@HK)'
+    brand: 'Ainol'
+    model: 'Novo7Advanced(Century@HK)'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Novo7Aurora Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Novo7Aurora'
+    brand: 'Ainol'
+    model: 'Novo7Aurora'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 3.2; Es-es; Novo7Basic Build/MASTER) AppleWebKit/534.13 (KHTML, Like Gecko) Version/4.0 Safari/534.13'
+    family: 'Novo7Basic'
+    brand: 'Ainol'
+    model: 'Novo7Basic'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4 JetROM; Novo7Fire Build/ICS.Fire.20120916) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Novo7Fire'
+    brand: 'Ainol'
+    model: 'Novo7Fire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4 JetROM; Novo7Flame Build/20120930.qm) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Novo7Flame'
+    brand: 'Ainol'
+    model: 'Novo7Flame'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; novo7Legend Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'novo7Legend'
+    brand: 'Ainol'
+    model: 'novo7Legend'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; novo7Legend (Sinar timur services) by Renzo Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'novo7Legend (Sinar timur services) by Renzo'
+    brand: 'Ainol'
+    model: 'novo7Legend (Sinar timur services) by Renzo'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 3.2; en-gb; NOVO7PALADIN Build/MASTER) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13'
+    family: 'NOVO7PALADIN'
+    brand: 'Ainol'
+    model: 'NOVO7PALADIN'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; En-gb; Ainol Novo8 Advanced Build/MID) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Ainol Novo8 Advanced'
+    brand: 'Ainol'
+    model: 'Novo8 Advanced'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Novo8 Discover Quadcore Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36 OPR/20.0.1396.72047'
+    family: 'Novo8 Discover Quadcore'
+    brand: 'Ainol'
+    model: 'Novo8 Discover Quadcore'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; novo9-Spark Build/MASTER) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'novo9-Spark'
+    brand: 'Ainol'
+    model: 'novo9-Spark'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; NovoCrystal Build/20121218) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'NovoCrystal'
+    brand: 'Ainol'
+    model: 'NovoCrystal'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; AIRIS GN135 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'GN135'
+    brand: 'Airis'
+    model: 'GN135'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android v1.02_15.13-ES-2011.03.29; en-za; AIRIS-OnePAD Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'OnePAD'
+    brand: 'Airis'
+    model: 'OnePAD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; AIRIS OnePAD 725 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'OnePAD 725'
+    brand: 'Airis'
+    model: 'OnePAD 725'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; AIRIS OnePAD 730 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'OnePAD 730'
+    brand: 'Airis'
+    model: 'OnePAD 730'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2; es-es; AirisOnePad1000 Build/FRF85B) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'OnePad1000'
+    brand: 'Airis'
+    model: 'OnePad1000'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2; Es-es; AIRIS_OnePAD700 Build/FRF85B) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'OnePAD700'
+    brand: 'Airis'
+    model: 'OnePAD700'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; AIRIS S211 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'S211'
+    brand: 'Airis'
+    model: 'S211'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3; En-us; AIRIS TM350 Build/FRF91) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'TM350'
+    brand: 'Airis'
+    model: 'TM350'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; AIRIS TM400 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'TM400'
+    brand: 'Airis'
+    model: 'TM400'
+
+  - user_agent_string: 'Instagram 5.0.2 Android (15/4.0.4; 240dpi; 480x800; AIRIS; TM450; AIRIS_TM450; qcom; es_ES)'
+    family: 'TM450'
+    brand: 'Airis'
+    model: 'TM450'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; AIRIS TM475 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'TM475'
+    brand: 'Airis'
+    model: 'TM475'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; En-us; AIRIS TM500 Build/IML74K) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'TM500'
+    brand: 'Airis'
+    model: 'TM500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; es-es; OnePAD 1050 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30BoraVoraRRFCHKUH65ACQ2F2568XEKKYT=#'
+    family: 'OnePAD 1050'
+    brand: 'Airis'
+    model: 'OnePAD 1050'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; OnePAD 1100 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'OnePAD 1100'
+    brand: 'Airis'
+    model: 'OnePAD 1100'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; pt-br; OnePAD 1100B Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'OnePAD 1100B'
+    brand: 'Airis'
+    model: 'OnePAD 1100B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; OnePAD 1100x2 Build/JRO03H) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22'
+    family: 'OnePAD 1100x2'
+    brand: 'Airis'
+    model: 'OnePAD 1100x2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.3; es-es; OnePAD 705 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'OnePAD 705'
+    brand: 'Airis'
+    model: 'OnePAD 705'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; OnePAD 715 Build/IMM76D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22'
+    family: 'OnePAD 715'
+    brand: 'Airis'
+    model: 'OnePAD 715'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.3; en-us; OnePAD 720 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'OnePAD 720'
+    brand: 'Airis'
+    model: 'OnePAD 720'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3; en-gb; OnePAD 725 Build/GRH55) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'OnePAD 725'
+    brand: 'Airis'
+    model: 'OnePAD 725'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3; Es-es; OnePAD 730 Build/GRH55) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'OnePAD 730'
+    brand: 'Airis'
+    model: 'OnePAD 730'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; ca-es; OnePAD 735 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'OnePAD 735'
+    brand: 'Airis'
+    model: 'OnePAD 735'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; pt-br; OnePAD 735C Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'OnePAD 735C'
+    brand: 'Airis'
+    model: 'OnePAD 735C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; Fr-fr; OnePAD 735G Build/IMM76D) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Safari/534.30'
+    family: 'OnePAD 735G'
+    brand: 'Airis'
+    model: 'OnePAD 735G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; OnePAD 735T Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36'
+    family: 'OnePAD 735T'
+    brand: 'Airis'
+    model: 'OnePAD 735T'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; OnePAD 90 Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.64 Safari/537.36'
+    family: 'OnePAD 90'
+    brand: 'Airis'
+    model: 'OnePAD 90'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; OnePAD 900HD Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'OnePAD 900HD'
+    brand: 'Airis'
+    model: 'OnePAD 900HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; OnePAD 900x2 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'OnePAD 900x2'
+    brand: 'Airis'
+    model: 'OnePAD 900x2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ONEPAD 940 Build/IMM76D) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'ONEPAD 940'
+    brand: 'Airis'
+    model: 'ONEPAD 940'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; OnePAD 970 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/535.19'
+    family: 'OnePAD 970'
+    brand: 'Airis'
+    model: 'OnePAD 970'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ONEPAD940 Build/IMM76D) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'ONEPAD940'
+    brand: 'Airis'
+    model: 'ONEPAD940'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Airpad-DS101M Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Airpad DS101M'
+    brand: 'Airpad'
+    model: 'DS101M'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Airpad-DS820M Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Airpad DS820M'
+    brand: 'Airpad'
+    model: 'DS820M'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; Airpad XL Build/IML74K; CyanogenMod-10) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Airpad XL'
+    brand: 'Airpad'
+    model: 'XL'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - TCT ALCATEL ONE TOUCH 4030D TCT - FFFFFFFF-9133-8568-FFFF-FFFFC2B41AB9'
+    family: 'ALCATEL ONE TOUCH 4030D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 4030D'
+
+  - user_agent_string: 'XCON Android Application (13, xcon v2.1) - TCT ALCATEL ONE TOUCH 5020D TCT - 00000000-371B-F780-4F29-A3BD1FD31B59'
+    family: 'ALCATEL ONE TOUCH 5020D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 5020D'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - TCT ALCATEL ONE TOUCH 5035D TCT - 00000000-693D-740E-FFFF-FFFFD769F97E'
+    family: 'ALCATEL ONE TOUCH 5035D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 5035D'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - TCT ALCATEL ONE TOUCH 6033X TCT - FFFFFFFF-E131-705E-FFFF-FFFFD5B64CAB'
+    family: 'ALCATEL ONE TOUCH 6033X'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 6033X'
+
+  - user_agent_string: 'SV1 Android Application (13, sv1 v2.1) - TCT ALCATEL one touch 890D TCT - FFFFFFFF-9EAF-9658-730A-F6590033C587'
+    family: 'ALCATEL one touch 890D'
+    brand: 'ALCATEL'
+    model: 'one touch 890D'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - TCT ALCATEL ONE TOUCH 903D TCT - FFFFFFFF-A752-85BB-FFFF-FFFF8130D90C'
+    family: 'ALCATEL ONE TOUCH 903D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 903D'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - TCT ALCATEL ONE TOUCH 918D TCT - 00000000-2EF9-EED2-FFFF-FFFF979CEDEB'
+    family: 'ALCATEL ONE TOUCH 918D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 918D'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - TCT ALCATEL ONE TOUCH 991D TCT - 00000000-1FCB-A37A-B3F9-8D8B1FDBB255'
+    family: 'ALCATEL ONE TOUCH 991D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 991D'
+
+  - user_agent_string: 'ERO247 Android Application (16, ero247 v2.2.2) - TCT ALCATEL ONE TOUCH 991T TCT - FFFFFFFF-EF1A-BDD0-FFFF-FFFF99CFD235'
+    family: 'ALCATEL ONE TOUCH 991T'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 991T'
+
+  - user_agent_string: 'ET1 Android Application (16, et1 v2.2.2) - TCT ALCATEL ONE TOUCH 992D TCT - FFFFFFFF-F0A7-117E-FFFF-FFFF8EC948B2'
+    family: 'ALCATEL ONE TOUCH 992D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 992D'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - TCT ALCATEL ONE TOUCH 997D TCT - 00000000-200B-9A81-FFFF-FFFF8D2C0CAB'
+    family: 'ALCATEL ONE TOUCH 997D'
+    brand: 'ALCATEL'
+    model: 'ONE TOUCH 997D'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - TCT ALCATEL_one_touch_995 TCT - 00000000-31E3-96E4-FFFF-FFFF80471F3A'
+    family: 'ALCATEL one_touch_995'
+    brand: 'ALCATEL'
+    model: 'one_touch_995'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; onetouch EVO7 Build/MAIN_01) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'Alcatel One Touch EVO7'
+    brand: 'Alcatel'
+    model: 'One Touch EVO7'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; one touch T10 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Alcatel One Touch T10'
+    brand: 'Alcatel'
+    model: 'One Touch T10'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-at; one touch T20 Build/MAIN) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Alcatel One Touch T20'
+    brand: 'Alcatel'
+    model: 'One Touch T20'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; es-mx; ONE TOUCH 4007A Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 4007A'
+    brand: 'Alcatel'
+    model: 'One Touch 4007A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-eg; ONE TOUCH 4007D Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 4007D'
+    brand: 'Alcatel'
+    model: 'One Touch 4007D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; -au; ONE TOUCH 4007E Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 4007E'
+    brand: 'Alcatel'
+    model: 'One Touch 4007E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; ONE TOUCH 4007X Build/GRK39F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.63 Mobile Safari/537.36 OPR/15.0.1162.60140'
+    family: 'Alcatel One Touch 4007X'
+    brand: 'Alcatel'
+    model: 'One Touch 4007X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; ALCATEL ONE TOUCH 4010A Build/GRK39F) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31 OPR/14.0.1074.58201'
+    family: 'Alcatel One Touch 4010A'
+    brand: 'Alcatel'
+    model: 'One Touch 4010A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-ae; ALCATEL ONE TOUCH 4010D Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 4010D'
+    brand: 'Alcatel'
+    model: 'One Touch 4010D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; ALCATEL ONE TOUCH 4010X Build/GRK39F) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.40 Mobile Safari/537.31 OPR/14.0.1074.54070'
+    family: 'Alcatel One Touch 4010X'
+    brand: 'Alcatel'
+    model: 'One Touch 4010X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ONE TOUCH 4011X Build/JRO03C) AppleWebKit/537.31 (KHTML, Like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31'
+    family: 'Alcatel One Touch 4011X'
+    brand: 'Alcatel'
+    model: 'One Touch 4011X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-at; ONE TOUCH 4015D Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30'
+    family: 'Alcatel One Touch 4015D'
+    brand: 'Alcatel'
+    model: 'One Touch 4015D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4015X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.166 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 4015X'
+    brand: 'Alcatel'
+    model: 'One Touch 4015X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 4030A'
+    brand: 'Alcatel'
+    model: 'One Touch 4030A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 4030D Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 4030D'
+    brand: 'Alcatel'
+    model: 'One Touch 4030D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 4030E Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 4030E'
+    brand: 'Alcatel'
+    model: 'One Touch 4030E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 4030X Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 4030X'
+    brand: 'Alcatel'
+    model: 'One Touch 4030X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4033A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 4033A'
+    brand: 'Alcatel'
+    model: 'One Touch 4033A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4033D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 4033D'
+    brand: 'Alcatel'
+    model: 'One Touch 4033D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4033E Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 4033E'
+    brand: 'Alcatel'
+    model: 'One Touch 4033E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4033X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 4033X'
+    brand: 'Alcatel'
+    model: 'One Touch 4033X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020 Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 5020'
+    brand: 'Alcatel'
+    model: 'One Touch 5020'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020A Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5020A'
+    brand: 'Alcatel'
+    model: 'One Touch 5020A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020D Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 5020D'
+    brand: 'Alcatel'
+    model: 'One Touch 5020D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020E Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5020E'
+    brand: 'Alcatel'
+    model: 'One Touch 5020E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; ALCATEL ONE TOUCH 5020N Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 5020N'
+    brand: 'Alcatel'
+    model: 'One Touch 5020N'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020T Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 5020T'
+    brand: 'Alcatel'
+    model: 'One Touch 5020T'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020W Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5020W'
+    brand: 'Alcatel'
+    model: 'One Touch 5020W'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5020X Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5020X'
+    brand: 'Alcatel'
+    model: 'One Touch 5020X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL_ONE_TOUCH_5020X_Orange Build/JRO03C) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31'
+    family: 'Alcatel One Touch 5020X_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 5020X_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5021E Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5021E'
+    brand: 'Alcatel'
+    model: 'One Touch 5021E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 5035A Build/IMM76D) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5035A'
+    brand: 'Alcatel'
+    model: 'One Touch 5035A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.0; es-us; alcatel one touch 5035a Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Alcatel One Touch 5035a'
+    brand: 'Alcatel'
+    model: 'One Touch 5035a'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 5035D Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 5035D'
+    brand: 'Alcatel'
+    model: 'One Touch 5035D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 5035E Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 5035E'
+    brand: 'Alcatel'
+    model: 'One Touch 5035E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 5035X Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 5035X'
+    brand: 'Alcatel'
+    model: 'One Touch 5035X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 5036D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 5036D'
+    brand: 'Alcatel'
+    model: 'One Touch 5036D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 5036X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 5036X'
+    brand: 'Alcatel'
+    model: 'One Touch 5036X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6010D Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 6010D'
+    brand: 'Alcatel'
+    model: 'One Touch 6010D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6010X Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 6010X'
+    brand: 'Alcatel'
+    model: 'One Touch 6010X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL_ONE_TOUCH_6010X_Orange Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 6010X_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 6010X_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 6012A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6012A'
+    brand: 'Alcatel'
+    model: 'One Touch 6012A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 6012D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6012D'
+    brand: 'Alcatel'
+    model: 'One Touch 6012D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 6012X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6012X'
+    brand: 'Alcatel'
+    model: 'One Touch 6012X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6030A Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 6030A'
+    brand: 'Alcatel'
+    model: 'One Touch 6030A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6030D Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 6030D'
+    brand: 'Alcatel'
+    model: 'One Touch 6030D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6030N Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6030N'
+    brand: 'Alcatel'
+    model: 'One Touch 6030N'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6030X Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 6030X'
+    brand: 'Alcatel'
+    model: 'One Touch 6030X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6030X_Orange Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6030X_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 6030X_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONETOUCH 6032 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6032'
+    brand: 'Alcatel'
+    model: 'One Touch 6032'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6033A Build/JRO03C) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 6033A'
+    brand: 'Alcatel'
+    model: 'One Touch 6033A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6033M Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 6033M'
+    brand: 'Alcatel'
+    model: 'One Touch 6033M'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 6033X Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1'
+    family: 'Alcatel One Touch 6033X'
+    brand: 'Alcatel'
+    model: 'One Touch 6033X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 6034R Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6034R'
+    brand: 'Alcatel'
+    model: 'One Touch 6034R'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.3; de-de; ALCATEL ONETOUCH 6036Y Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Alcatel One Touch 6036Y'
+    brand: 'Alcatel'
+    model: 'One Touch 6036Y'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 6040A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6040A'
+    brand: 'Alcatel'
+    model: 'One Touch 6040A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 6040D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6040D'
+    brand: 'Alcatel'
+    model: 'One Touch 6040D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-gb; ALCATEL ONE TOUCH 6040E Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30'
+    family: 'Alcatel One Touch 6040E'
+    brand: 'Alcatel'
+    model: 'One Touch 6040E'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 6040X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 6040X'
+    brand: 'Alcatel'
+    model: 'One Touch 6040X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; ALCATEL ONETOUCH 6043D Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30'
+    family: 'Alcatel One Touch 6043D'
+    brand: 'Alcatel'
+    model: 'One Touch 6043D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7024W Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7024W'
+    brand: 'Alcatel'
+    model: 'One Touch 7024W'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; ALCATEL ONE TOUCH 7025D Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7025D'
+    brand: 'Alcatel'
+    model: 'One Touch 7025D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7040D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7040D'
+    brand: 'Alcatel'
+    model: 'One Touch 7040D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7041D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7041D'
+    brand: 'Alcatel'
+    model: 'One Touch 7041D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7041X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7041X'
+    brand: 'Alcatel'
+    model: 'One Touch 7041X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; ALCATEL ONETOUCH 7045X Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7045X'
+    brand: 'Alcatel'
+    model: 'One Touch 7045X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7047D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 7047D'
+    brand: 'Alcatel'
+    model: 'One Touch 7047D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; ALCATEL ONE TOUCH 8000A Build/JZO54K) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 8000A'
+    brand: 'Alcatel'
+    model: 'One Touch 8000A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; ALCATEL ONE TOUCH 8000D Build/JZO54K) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 8000D'
+    brand: 'Alcatel'
+    model: 'One Touch 8000D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; ALCATEL ONE TOUCH 8008D Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 8008D'
+    brand: 'Alcatel'
+    model: 'One Touch 8008D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; ALCATEL ONE TOUCH 8008W Build/JOP40D) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31'
+    family: 'Alcatel One Touch 8008W'
+    brand: 'Alcatel'
+    model: 'One Touch 8008W'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.2; ALCATEL ONE TOUCH 8008X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 8008X'
+    brand: 'Alcatel'
+    model: 'One Touch 8008X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 8020D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 8020D'
+    brand: 'Alcatel'
+    model: 'One Touch 8020D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.1; zh-CN; ALCATEL ONE TOUCH 8020X Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Oupeng/1.5.0.71498 Mobile Safari/534.30 (securitypay)'
+    family: 'Alcatel One Touch 8020X'
+    brand: 'Alcatel'
+    model: 'One Touch 8020X'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; de-de; ALCATEL_one_touch_890 Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 890'
+    brand: 'Alcatel'
+    model: 'One Touch 890'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us; ALCATEL_one_touch_890D Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 890D'
+    brand: 'Alcatel'
+    model: 'One Touch 890D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; En-ge; ALCATEL_one_touch_891 Build/ERE27) AppleWebKit/530.17 (KHTML, Like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 891'
+    brand: 'Alcatel'
+    model: 'One Touch 891'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-eg; ALCATEL ONE TOUCH 903 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 903'
+    brand: 'Alcatel'
+    model: 'One Touch 903'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; ALCATEL ONE TOUCH 903A Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 903A'
+    brand: 'Alcatel'
+    model: 'One Touch 903A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; ALCATEL ONE TOUCH 903D Build/GRK39F) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.40 Mobile Safari/537.31 OPR/14.0.1074.54070'
+    family: 'Alcatel One Touch 903D'
+    brand: 'Alcatel'
+    model: 'One Touch 903D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; de-de; one touch 906 Build/FSR) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 906'
+    brand: 'Alcatel'
+    model: 'One Touch 906'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; da-dk; ALCATEL_one_touch_906Y Build/FSR) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 906Y'
+    brand: 'Alcatel'
+    model: 'One Touch 906Y'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; ar-eg; ALCATEL_one_touch_908 Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908'
+    brand: 'Alcatel'
+    model: 'One Touch 908'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; de-; ALCATEL_one_touch_908A Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908A'
+    brand: 'Alcatel'
+    model: 'One Touch 908A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; Fr-fr; Alcatel_one_touch_908F Build/FRG83G) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908F'
+    brand: 'Alcatel'
+    model: 'One Touch 908F'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; en-gb; Alcatel one touch 908F Orange Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908F Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 908F Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; Ar-eg; Alcatel_one_touch_908F_Orange Build/FRG83G) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908F_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 908F_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; en-us; ALCATEL_one_touch_908M Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908M'
+    brand: 'Alcatel'
+    model: 'One Touch 908M'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; En-ca; ALCATEL_one_touch_908S Build/FRG83G) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 908S'
+    brand: 'Alcatel'
+    model: 'One Touch 908S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; En-us; ALCATEL_one_touch_909A Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 909A'
+    brand: 'Alcatel'
+    model: 'One Touch 909A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; -mx; ALCATEL_one_touch_909B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 909B'
+    brand: 'Alcatel'
+    model: 'One Touch 909B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; En-us; ALCATEL_one_touch_909S Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 909S'
+    brand: 'Alcatel'
+    model: 'One Touch 909S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; Es-mx; ALCATEL_one_touch_910 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 910'
+    brand: 'Alcatel'
+    model: 'One Touch 910'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; En-us; ALCATEL_one_touch_910A Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 910A'
+    brand: 'Alcatel'
+    model: 'One Touch 910A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-eg; ALCATEL ONE TOUCH 916 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 916'
+    brand: 'Alcatel'
+    model: 'One Touch 916'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; pt-pt; Alcatel_one_touch_916_Helsinki Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 916_Helsinki'
+    brand: 'Alcatel'
+    model: 'One Touch 916_Helsinki'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; Alcatel_one_touch_916_Orange Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 916_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 916_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-us ; ALCATEL ONE TOUCH 916A Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.6.1.262/145/355'
+    family: 'Alcatel One Touch 916A'
+    brand: 'Alcatel'
+    model: 'One Touch 916A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; ALCATEL ONE TOUCH 916D Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 916D'
+    brand: 'Alcatel'
+    model: 'One Touch 916D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; en-gb; ALCATEL_one_touch_918 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918'
+    brand: 'Alcatel'
+    model: 'One Touch 918'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; de-de; Alcatel_one_touch_918_Orange Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 918_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; de-de; ALCATEL ONE TOUCH 918A Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918A'
+    brand: 'Alcatel'
+    model: 'One Touch 918A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; ar-eg; ALCATEL ONE TOUCH 918D Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918D'
+    brand: 'Alcatel'
+    model: 'One Touch 918D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; en-us ; ALCATEL_one_touch_918M Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.3.0.143/145/444'
+    family: 'Alcatel One Touch 918M'
+    brand: 'Alcatel'
+    model: 'One Touch 918M'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; de-de; ALCATEL ONE TOUCH 918N Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918N'
+    brand: 'Alcatel'
+    model: 'One Touch 918N'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; ALCATEL ONE TOUCH 918S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918S'
+    brand: 'Alcatel'
+    model: 'One Touch 918S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; ALCATEL OT 919 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 919'
+    brand: 'Alcatel'
+    model: 'One Touch 919'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; ALCATEL OT 919 HelloKitty Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 919 HelloKitty'
+    brand: 'Alcatel'
+    model: 'One Touch 919 HelloKitty'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; En-gb; ALCATEL ONE TOUCH 922 Build/GRK39F) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 922'
+    brand: 'Alcatel'
+    model: 'One Touch 922'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; En-US; ALCATEL_one_touch_927 Build/TCSV) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 927'
+    brand: 'Alcatel'
+    model: 'One Touch 927'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 930D Build/1.2.10.4) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 930D'
+    brand: 'Alcatel'
+    model: 'One Touch 930D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; ONE_TOUCH_960C Build/GRK39F) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31 OPR/14.0.1074.57453'
+    family: 'Alcatel One Touch 960C'
+    brand: 'Alcatel'
+    model: 'One Touch 960C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; En-US; Alcatel_OT-980 Build/DR4) AppleWebKit/528.5+ (KHTML, Like Gecko) Version/3.1.2 Mobile Safari/525.20.1 UCBrowser/8.7.0.315 Mobile'
+    family: 'Alcatel One Touch 980'
+    brand: 'Alcatel'
+    model: 'One Touch 980'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; En-us; Alcatel OT-980A Build/ERE27) AppleWebKit/530.17 (KHTML, Like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 980A'
+    brand: 'Alcatel'
+    model: 'One Touch 980A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1; En-us; Alcatel OT-981A Build/ERE27) AppleWebKit/530.17 (KHTML, Like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 981A'
+    brand: 'Alcatel'
+    model: 'One Touch 981A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.3; en_gb; ONE TOUCH 983 Build/GINGERBREAD) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 NetFrontLifeBrowser/2.3 Mobile (Dragonfruit)'
+    family: 'Alcatel One Touch 983'
+    brand: 'Alcatel'
+    model: 'One Touch 983'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.7; es-mx; ONE TOUCH 983A Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 983A'
+    brand: 'Alcatel'
+    model: 'One Touch 983A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; de-de; ALCATEL ONE TOUCH 985 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 985'
+    brand: 'Alcatel'
+    model: 'One Touch 985'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; es-mx; ALCATEL ONE TOUCH 985A Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 985A'
+    brand: 'Alcatel'
+    model: 'One Touch 985A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-; ALCATEL ONE TOUCH 985D Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 985D'
+    brand: 'Alcatel'
+    model: 'One Touch 985D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; -gb; ALCATEL ONE TOUCH 985N Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 985N'
+    brand: 'Alcatel'
+    model: 'One Touch 985N'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; ALCATEL one touch 986 Build/C986-2SALCN1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 986'
+    brand: 'Alcatel'
+    model: 'One Touch 986'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; ALCATEL one touch 986+ Build/C986-2SALCN1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 986+'
+    brand: 'Alcatel'
+    model: 'One Touch 986+'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; En-us; ALCATEL_one_touch_988 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, Like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 988'
+    brand: 'Alcatel'
+    model: 'One Touch 988'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Alcatel one touch 990 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 990'
+    brand: 'Alcatel'
+    model: 'One Touch 990'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; de-de; ALCATEL_one_touch_990A Build/FRG83G) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 990A'
+    brand: 'Alcatel'
+    model: 'One Touch 990A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2-update1; en-us; ALCATEL_one_touch_990M Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 990M'
+    brand: 'Alcatel'
+    model: 'One Touch 990M'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2-update1; en-us; ALCATEL_one_touch_990S Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'Alcatel One Touch 990S'
+    brand: 'Alcatel'
+    model: 'One Touch 990S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-; ALCATEL ONE TOUCH 991 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 991'
+    brand: 'Alcatel'
+    model: 'One Touch 991'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ca-es; ALCATEL_ONE_TOUCH_991_Orange Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 991_Orange'
+    brand: 'Alcatel'
+    model: 'One Touch 991_Orange'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; ALCATEL ONE TOUCH 991A Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 991A'
+    brand: 'Alcatel'
+    model: 'One Touch 991A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-; ALCATEL ONE TOUCH 991D Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 991D'
+    brand: 'Alcatel'
+    model: 'One Touch 991D'
+
+  - user_agent_string: 'YahooMobile/1.0 (im; 1.8.4.15957); (Linux; U; Android 2.3.6; ONE_TOUCH_991D_ALDE Build/GINGERBREAD_MR1);'
+    family: 'Alcatel One Touch 991D_ALDE'
+    brand: 'Alcatel'
+    model: 'One Touch 991D_ALDE'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; ALCATEL ONE TOUCH 991S Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 991S'
+    brand: 'Alcatel'
+    model: 'One Touch 991S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; ar-eg; ALCATEL ONE TOUCH 991T Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 991T'
+    brand: 'Alcatel'
+    model: 'One Touch 991T'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 992D Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.10'
+    family: 'Alcatel One Touch 992D'
+    brand: 'Alcatel'
+    model: 'One Touch 992D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 993 Build/ICECREAM) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 993'
+    brand: 'Alcatel'
+    model: 'One Touch 993'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 993D Build/ICECREAM) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.'
+    family: 'Alcatel One Touch 993D'
+    brand: 'Alcatel'
+    model: 'One Touch 993D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; ALCATEL_one_touch_995 Build/GINGERBREAD) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.40 Mobile Safari/537.31 OPR/14.0.1074.54070'
+    family: 'Alcatel One Touch 995'
+    brand: 'Alcatel'
+    model: 'One Touch 995'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; es-mx; ALCATEL_one_touch_995A Build/TS-BF-AP-003) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 995A'
+    brand: 'Alcatel'
+    model: 'One Touch 995A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; ALCATEL_one_touch_995S Build/TS-BF-AP-003) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 995S'
+    brand: 'Alcatel'
+    model: 'One Touch 995S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 997 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 997'
+    brand: 'Alcatel'
+    model: 'One Touch 997'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; ALCATEL ONE TOUCH 997A Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Alcatel One Touch 997A'
+    brand: 'Alcatel'
+    model: 'One Touch 997A'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 997D Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 997D'
+    brand: 'Alcatel'
+    model: 'One Touch 997D'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Alcatel_onetouch 997d Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.64 Mobile Safari/537.36'
+    family: 'Alcatel One Touch 997d'
+    brand: 'Alcatel'
+    model: 'One Touch 997d'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALCATEL ONE TOUCH 998 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 998'
+    brand: 'Alcatel'
+    model: 'One Touch 998'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; it-it; ONE TOUCH EVO 7HD Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Alcatel One Touch EVO 7HD'
+    brand: 'Alcatel'
+    model: 'One Touch EVO 7HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ONE TOUCH EVO7HD Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36'
+    family: 'Alcatel One Touch EVO7HD'
+    brand: 'Alcatel'
+    model: 'One Touch EVO7HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; ONE TOUCH EVO8HD Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Safari/534.30'
+    family: 'Alcatel One Touch EVO8HD'
+    brand: 'Alcatel'
+    model: 'One Touch EVO8HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH Fierce Build/JDQ39) AppleWebKit/537.31 (KHTML, Like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31'
+    family: 'Alcatel One Touch Fierce'
+    brand: 'Alcatel'
+    model: 'One Touch Fierce'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH IDOL MINI Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36'
+    family: 'Alcatel One Touch IDOL MINI'
+    brand: 'Alcatel'
+    model: 'One Touch IDOL MINI'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; one_touch_T10 Build/IML74K) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1 UCBrowser/8.2.0.242 Mobile'
+    family: 'Alcatel One Touch T10'
+    brand: 'Alcatel'
+    model: 'One Touch T10'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; es-us; one touch T60 Build/MASTER) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch T60'
+    brand: 'Alcatel'
+    model: 'One Touch T60'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ONE TOUCH TAB 7 Build/GSDT011) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Alcatel One Touch TAB 7'
+    brand: 'Alcatel'
+    model: 'One Touch TAB 7'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ONE TOUCH TAB 7HD Build/JRO03H) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Alcatel One Touch TAB 7HD'
+    brand: 'Alcatel'
+    model: 'One Touch TAB 7HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; ONE TOUCH TAB 8HD Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'Alcatel One Touch TAB 8HD'
+    brand: 'Alcatel'
+    model: 'One Touch TAB 8HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; en-US; ONE_TOUCH_TAB_7HD Build/JRO03H) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1 UCBrowser/8.7.0.315 Mobile'
+    family: 'Alcatel One Touch TAB_7HD'
+    brand: 'Alcatel'
+    model: 'One Touch TAB_7HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Optimus_Madrid Build/IceCreamSandwich) AppleWebKit/535.19 (KHTML, Like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel Optimus_Madrid'
+    brand: 'Alcatel'
+    model: 'Optimus_Madrid'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.7; -us; Vodafone Smart II Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 SVN/01015'
+    family: 'Alcatel Vodafone Smart II'
+    brand: 'Alcatel'
+    model: 'Vodafone Smart II'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; BASE_Lutea_3 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Alcatel One Touch 998'
+    brand: 'Alcatel'
+    model: 'One Touch 998'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; de-; BASE_Varia Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Alcatel One Touch 918D'
+    brand: 'Alcatel'
+    model: 'One Touch 918D'
+
+  - user_agent_string: 'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; ALCATEL; ONE TOUCH 5040X)'
+    family: 'Alcatel ONE TOUCH 5040X'
+    brand: 'Alcatel'
+    model: 'ONE TOUCH 5040X'
+
+  - user_agent_string: 'Mozilla/5.0 (Mobile; ALCATELOneTouch4012X/SVN 01010B; rv:18.1) Gecko/18.1 Firefox/18.1'
+    family: 'Alcatel One Touch 4012X'
+    brand: 'Alcatel'
+    model: 'One Touch 4012X'
+
+  - user_agent_string: 'Alcatel-BE3/1.0 UP/4'
+    family: 'Alcatel BE3'
+    brand: 'Alcatel'
+    model: 'BE3'
+
+  - user_agent_string: 'Alcatel-BE4/1.0 UP/4.1.16f'
+    family: 'Alcatel BE4'
+    brand: 'Alcatel'
+    model: 'BE4'
+
+  - user_agent_string: 'Alcatel-BE5/1'
+    family: 'Alcatel BE5'
+    brand: 'Alcatel'
+    model: 'BE5'
+
+  - user_agent_string: 'Alcatel-BF3/1.0 UP.Browser/4.1.23a'
+    family: 'Alcatel BF3'
+    brand: 'Alcatel'
+    model: 'BF3'
+
+  - user_agent_string: 'Alcatel-BF4/1.0 UP.Browser/4'
+    family: 'Alcatel BF4'
+    brand: 'Alcatel'
+    model: 'BF4'
+
+  - user_agent_string: 'Alcatel-BF5/1.0 UP.Browser/5.0.3'
+    family: 'Alcatel BF5'
+    brand: 'Alcatel'
+    model: 'BF5'
+
+  - user_agent_string: 'Alcatel-BG3'
+    family: 'Alcatel BG3'
+    brand: 'Alcatel'
+    model: 'BG3'
+
+  - user_agent_string: 'Alcatel-BG3-color'
+    family: 'Alcatel BG3-color'
+    brand: 'Alcatel'
+    model: 'BG3-color'
+
+  - user_agent_string: 'Alcatel-BH4/1.0'
+    family: 'Alcatel BH4'
+    brand: 'Alcatel'
+    model: 'BH4'
+
+  - user_agent_string: 'Alcatel-BH4R/1.0 UP.Browser/6.2.ALCATEL MMP/1.0'
+    family: 'Alcatel BH4R'
+    brand: 'Alcatel'
+    model: 'BH4R'
+
+  - user_agent_string: 'Alcatel-Crystal/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel Crystal'
+    brand: 'Alcatel'
+    model: 'Crystal'
+
+  - user_agent_string: 'Alcatel-CTH3/1.0 UP.Browser/6.2.ALCATEL MMP/1.0'
+    family: 'Alcatel CTH3'
+    brand: 'Alcatel'
+    model: 'CTH3'
+
+  - user_agent_string: 'Alcatel-E5/1.0 UP.Browser/7.0.2 (GUI) MMP/2.0'
+    family: 'Alcatel E5'
+    brand: 'Alcatel'
+    model: 'E5'
+
+  - user_agent_string: 'ALCATEL-ELLE-N1'
+    family: 'Alcatel ELLE-N1'
+    brand: 'Alcatel'
+    model: 'ELLE-N1'
+
+  - user_agent_string: 'Alcatel-ELLE-N3/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel ELLE-N3'
+    brand: 'Alcatel'
+    model: 'ELLE-N3'
+
+  - user_agent_string: 'Alcatel-GLAMPHONE-ELLE/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel GLAMPHONE-ELLE'
+    brand: 'Alcatel'
+    model: 'GLAMPHONE-ELLE'
+
+  - user_agent_string: 'Alcatel-GLAMPHONE-ELLE-A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel GLAMPHONE-ELLE-A'
+    brand: 'Alcatel'
+    model: 'GLAMPHONE-ELLE-A'
+
+  - user_agent_string: 'Http Connector Spider, contact Alcatel-Lucent IDOL Search'
+    family: 'Alcatel Lucent'
+    brand: 'Alcatel'
+    model: 'Lucent'
+
+  - user_agent_string: 'Alcatel-M5/1.0 UP.Browser/7.1 (GUI) MMP/2.0'
+    family: 'Alcatel M5'
+    brand: 'Alcatel'
+    model: 'M5'
+
+  - user_agent_string: 'ALCATEL-MANDARINA-DUCK'
+    family: 'Alcatel MANDARINA-DUCK'
+    brand: 'Alcatel'
+    model: 'MANDARINA-DUCK'
+
+  - user_agent_string: 'Alcatel-Mandarina-Duck'
+    family: 'Alcatel Mandarina-Duck'
+    brand: 'Alcatel'
+    model: 'Mandarina-Duck'
+
+  - user_agent_string: 'Alcatel-Mandarina-Duck-MOON/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel Mandarina-Duck-MOON'
+    brand: 'Alcatel'
+    model: 'Mandarina-Duck-MOON'
+
+  - user_agent_string: 'Alcatel-MISS-SIXTY-MSX-10'
+    family: 'Alcatel MISS-SIXTY-MSX-10'
+    brand: 'Alcatel'
+    model: 'MISS-SIXTY-MSX-10'
+
+  - user_agent_string: 'ALCATEL-MISSSIXTY'
+    family: 'Alcatel MISSSIXTY'
+    brand: 'Alcatel'
+    model: 'MISSSIXTY'
+
+  - user_agent_string: 'Alcatel-MissSixty'
+    family: 'Alcatel MissSixty'
+    brand: 'Alcatel'
+    model: 'MissSixty'
+
+  - user_agent_string: 'ALCATEL-OH1'
+    family: 'Alcatel OH1'
+    brand: 'Alcatel'
+    model: 'OH1'
+
+  - user_agent_string: 'Alcatel-OH1C'
+    family: 'Alcatel OH1C'
+    brand: 'Alcatel'
+    model: 'OH1C'
+
+  - user_agent_string: 'Alcatel-OH2/1.0 ObigoInternetBrowser/2.0'
+    family: 'Alcatel OH2'
+    brand: 'Alcatel'
+    model: 'OH2'
+
+  - user_agent_string: 'Alcatel-OT'
+    family: 'Alcatel OT'
+    brand: 'Alcatel'
+    model: 'OT'
+
+  - user_agent_string: 'Alcatel-OT-216/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-216'
+    brand: 'Alcatel'
+    model: 'OT-216'
+
+  - user_agent_string: 'ALCATEL-OT-255'
+    family: 'Alcatel OT-255'
+    brand: 'Alcatel'
+    model: 'OT-255'
+
+  - user_agent_string: 'Alcatel-OT-255A'
+    family: 'Alcatel OT-255A'
+    brand: 'Alcatel'
+    model: 'OT-255A'
+
+  - user_agent_string: 'Alcatel-OT-255D/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-255D'
+    brand: 'Alcatel'
+    model: 'OT-255D'
+
+  - user_agent_string: 'Alcatel-OT-280/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-280'
+    brand: 'Alcatel'
+    model: 'OT-280'
+
+  - user_agent_string: 'Alcatel-OT-300/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-300'
+    brand: 'Alcatel'
+    model: 'OT-300'
+
+  - user_agent_string: 'Alcatel-OT-303/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-303'
+    brand: 'Alcatel'
+    model: 'OT-303'
+
+  - user_agent_string: 'Alcatel-OT-303A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-303A'
+    brand: 'Alcatel'
+    model: 'OT-303A'
+
+  - user_agent_string: 'ALCATEL-OT-305/10 OBIGOINTERNETBROWSER/Q03C'
+    family: 'Alcatel OT-305'
+    brand: 'Alcatel'
+    model: 'OT-305'
+
+  - user_agent_string: 'Alcatel-OT-305A'
+    family: 'Alcatel OT-305A'
+    brand: 'Alcatel'
+    model: 'OT-305A'
+
+  - user_agent_string: 'ALCATEL-OT-355'
+    family: 'Alcatel OT-355'
+    brand: 'Alcatel'
+    model: 'OT-355'
+
+  - user_agent_string: 'Alcatel-OT-355A'
+    family: 'Alcatel OT-355A'
+    brand: 'Alcatel'
+    model: 'OT-355A'
+
+  - user_agent_string: 'ALCATEL-OT-355D'
+    family: 'Alcatel OT-355D'
+    brand: 'Alcatel'
+    model: 'OT-355D'
+
+  - user_agent_string: 'Alcatel-OT-360A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-360A'
+    brand: 'Alcatel'
+    model: 'OT-360A'
+
+  - user_agent_string: 'Alcatel-OT-363/010_02 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-363'
+    brand: 'Alcatel'
+    model: 'OT-363'
+
+  - user_agent_string: 'Alcatel-OT-363A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-363A'
+    brand: 'Alcatel'
+    model: 'OT-363A'
+
+  - user_agent_string: 'Alcatel-OT-380/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-380'
+    brand: 'Alcatel'
+    model: 'OT-380'
+
+  - user_agent_string: 'Alcatel-OT-383/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-383'
+    brand: 'Alcatel'
+    model: 'OT-383'
+
+  - user_agent_string: 'Alcatel-OT-383A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-383A'
+    brand: 'Alcatel'
+    model: 'OT-383A'
+
+  - user_agent_string: 'ALCATEL-OT-505/10 OBIGOINTERNETBROWSER/Q03C'
+    family: 'Alcatel OT-505'
+    brand: 'Alcatel'
+    model: 'OT-505'
+
+  - user_agent_string: 'Alcatel-OT-505A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-505A'
+    brand: 'Alcatel'
+    model: 'OT-505A'
+
+  - user_agent_string: 'Alcatel-OT-508/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-508'
+    brand: 'Alcatel'
+    model: 'OT-508'
+
+  - user_agent_string: 'Alcatel-OT-508A'
+    family: 'Alcatel OT-508A'
+    brand: 'Alcatel'
+    model: 'OT-508A'
+
+  - user_agent_string: 'ALCATEL-OT-600'
+    family: 'Alcatel OT-600'
+    brand: 'Alcatel'
+    model: 'OT-600'
+
+  - user_agent_string: 'Alcatel-OT-600A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-600A'
+    brand: 'Alcatel'
+    model: 'OT-600A'
+
+  - user_agent_string: 'ALCATEL-OT-606'
+    family: 'Alcatel OT-606'
+    brand: 'Alcatel'
+    model: 'OT-606'
+
+  - user_agent_string: 'Alcatel-OT-606A'
+    family: 'Alcatel OT-606A'
+    brand: 'Alcatel'
+    model: 'OT-606A'
+
+  - user_agent_string: 'Alcatel-OT-606a/1.0 Profile/MIDP-8.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-606a'
+    brand: 'Alcatel'
+    model: 'OT-606a'
+
+  - user_agent_string: 'Alcatel-OT-606X'
+    family: 'Alcatel OT-606X'
+    brand: 'Alcatel'
+    model: 'OT-606X'
+
+  - user_agent_string: 'ALCATEL-OT-660'
+    family: 'Alcatel OT-660'
+    brand: 'Alcatel'
+    model: 'OT-660'
+
+  - user_agent_string: 'ALCATEL-OT-660A'
+    family: 'Alcatel OT-660A'
+    brand: 'Alcatel'
+    model: 'OT-660A'
+
+  - user_agent_string: 'Alcatel-OT-706/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-706'
+    brand: 'Alcatel'
+    model: 'OT-706'
+
+  - user_agent_string: 'Alcatel-OT-706A'
+    family: 'Alcatel OT-706A'
+    brand: 'Alcatel'
+    model: 'OT-706A'
+
+  - user_agent_string: 'ALCATEL-OT-708'
+    family: 'Alcatel OT-708'
+    brand: 'Alcatel'
+    model: 'OT-708'
+
+  - user_agent_string: 'Alcatel-OT-708A'
+    family: 'Alcatel OT-708A'
+    brand: 'Alcatel'
+    model: 'OT-708A'
+
+  - user_agent_string: 'Alcatel-OT-710/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-710'
+    brand: 'Alcatel'
+    model: 'OT-710'
+
+  - user_agent_string: 'Alcatel-OT-710A'
+    family: 'Alcatel OT-710A'
+    brand: 'Alcatel'
+    model: 'OT-710A'
+
+  - user_agent_string: 'Alcatel-OT-710D'
+    family: 'Alcatel OT-710D'
+    brand: 'Alcatel'
+    model: 'OT-710D'
+
+  - user_agent_string: 'ALCATEL-OT-799'
+    family: 'Alcatel OT-799'
+    brand: 'Alcatel'
+    model: 'OT-799'
+
+  - user_agent_string: 'Alcatel-OT-799A'
+    family: 'Alcatel OT-799A'
+    brand: 'Alcatel'
+    model: 'OT-799A'
+
+  - user_agent_string: 'Alcatel-OT-800/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q05A'
+    family: 'Alcatel OT-800'
+    brand: 'Alcatel'
+    model: 'OT-800'
+
+  - user_agent_string: 'Mozilla/5.0 (Series40/3.0FP1; Alcatel-OT-800A/1.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/null'
+    family: 'Alcatel OT-800A'
+    brand: 'Alcatel'
+    model: 'OT-800A'
+
+  - user_agent_string: 'Alcatel-OT-800X/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q05A'
+    family: 'Alcatel OT-800X'
+    brand: 'Alcatel'
+    model: 'OT-800X'
+
+  - user_agent_string: 'ALCATEL-OT-802'
+    family: 'Alcatel OT-802'
+    brand: 'Alcatel'
+    model: 'OT-802'
+
+  - user_agent_string: 'Mozilla/5.0 (Series40/3.0FP1; Alcatel-OT-802A/1.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/null'
+    family: 'Alcatel OT-802A'
+    brand: 'Alcatel'
+    model: 'OT-802A'
+
+  - user_agent_string: 'Alcatel-OT-802Y/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q05A'
+    family: 'Alcatel OT-802Y'
+    brand: 'Alcatel'
+    model: 'OT-802Y'
+
+  - user_agent_string: 'ALCATEL-OT-806'
+    family: 'Alcatel OT-806'
+    brand: 'Alcatel'
+    model: 'OT-806'
+
+  - user_agent_string: 'Alcatel-OT-806A'
+    family: 'Alcatel OT-806A'
+    brand: 'Alcatel'
+    model: 'OT-806A'
+
+  - user_agent_string: 'Mozilla/5.0 (Java; U; En-us; Alcatel-ot-806d) UCBrowser8.3.1.161/70/465/UCWEB Mobile UNTRUSTED/1.0'
+    family: 'Alcatel ot-806d'
+    brand: 'Alcatel'
+    model: 'ot-806d'
+
+  - user_agent_string: 'Alcatel-OT-806D/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q05A'
+    family: 'Alcatel OT-806D'
+    brand: 'Alcatel'
+    model: 'OT-806D'
+
+  - user_agent_string: 'Alcatel-OT-807/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q05A SVN/04N'
+    family: 'Alcatel OT-807'
+    brand: 'Alcatel'
+    model: 'OT-807'
+
+  - user_agent_string: 'Alcatel-OT-807A'
+    family: 'Alcatel OT-807A'
+    brand: 'Alcatel'
+    model: 'OT-807A'
+
+  - user_agent_string: 'Alcatel-OT-807D'
+    family: 'Alcatel OT-807D'
+    brand: 'Alcatel'
+    model: 'OT-807D'
+
+  - user_agent_string: 'ALCATEL-OT-808'
+    family: 'Alcatel OT-808'
+    brand: 'Alcatel'
+    model: 'OT-808'
+
+  - user_agent_string: 'Alcatel-OT-808A'
+    family: 'Alcatel OT-808A'
+    brand: 'Alcatel'
+    model: 'OT-808A'
+
+  - user_agent_string: 'ALCATEL-OT-880'
+    family: 'Alcatel OT-880'
+    brand: 'Alcatel'
+    model: 'OT-880'
+
+  - user_agent_string: 'Alcatel-OT-880A'
+    family: 'Alcatel OT-880A'
+    brand: 'Alcatel'
+    model: 'OT-880A'
+
+  - user_agent_string: 'ALCATEL-OT-C550'
+    family: 'Alcatel OT-C550'
+    brand: 'Alcatel'
+    model: 'OT-C550'
+
+  - user_agent_string: 'Alcatel-OT-C551/1.0 UP.Browser/7.1 (GUI) MMP/2.0 UP.Link/6.3.0.0.0'
+    family: 'Alcatel OT-C551'
+    brand: 'Alcatel'
+    model: 'OT-C551'
+
+  - user_agent_string: 'ALCATEL-OT-C552'
+    family: 'Alcatel OT-C552'
+    brand: 'Alcatel'
+    model: 'OT-C552'
+
+  - user_agent_string: 'Alcatel-OT-C552a/1.0 UP.Browser/7.1 (GUI) MMP/2.0'
+    family: 'Alcatel OT-C552a'
+    brand: 'Alcatel'
+    model: 'OT-C552a'
+
+  - user_agent_string: 'Alcatel-OT-C630/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-C630'
+    brand: 'Alcatel'
+    model: 'OT-C630'
+
+  - user_agent_string: 'Alcatel-OT-C652'
+    family: 'Alcatel OT-C652'
+    brand: 'Alcatel'
+    model: 'OT-C652'
+
+  - user_agent_string: 'Alcatel-OT-C700'
+    family: 'Alcatel OT-C700'
+    brand: 'Alcatel'
+    model: 'OT-C700'
+
+  - user_agent_string: 'Alcatel-OT-C700A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-C700A'
+    brand: 'Alcatel'
+    model: 'OT-C700A'
+
+  - user_agent_string: 'ALCATEL-OT-C701'
+    family: 'Alcatel OT-C701'
+    brand: 'Alcatel'
+    model: 'OT-C701'
+
+  - user_agent_string: 'ALCATEL-OT-C701A'
+    family: 'Alcatel OT-C701A'
+    brand: 'Alcatel'
+    model: 'OT-C701A'
+
+  - user_agent_string: 'ALCATEL-OT-C707'
+    family: 'Alcatel OT-C707'
+    brand: 'Alcatel'
+    model: 'OT-C707'
+
+  - user_agent_string: 'ALCATEL-OT-C717'
+    family: 'Alcatel OT-C717'
+    brand: 'Alcatel'
+    model: 'OT-C717'
+
+  - user_agent_string: 'Alcatel-OT-C717A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-C717A'
+    brand: 'Alcatel'
+    model: 'OT-C717A'
+
+  - user_agent_string: 'Alcatel-OT-C750/1.0 UP.Browser/7.1 (GUI) MMP/2.0'
+    family: 'Alcatel OT-C750'
+    brand: 'Alcatel'
+    model: 'OT-C750'
+
+  - user_agent_string: 'Alcatel-OT-C820/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-C820'
+    brand: 'Alcatel'
+    model: 'OT-C820'
+
+  - user_agent_string: 'ALCATEL-OT-C825'
+    family: 'Alcatel OT-C825'
+    brand: 'Alcatel'
+    model: 'OT-C825'
+
+  - user_agent_string: 'Alcatel-OT-I650/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-I650'
+    brand: 'Alcatel'
+    model: 'OT-I650'
+
+  - user_agent_string: 'Alcatel-OT-I650A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-I650A'
+    brand: 'Alcatel'
+    model: 'OT-I650A'
+
+  - user_agent_string: 'Alcatel-OT-S215A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S215A'
+    brand: 'Alcatel'
+    model: 'OT-S215A'
+
+  - user_agent_string: 'Alcatel-OT-S319/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S319'
+    brand: 'Alcatel'
+    model: 'OT-S319'
+
+  - user_agent_string: 'Alcatel-OT-S319A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S319A'
+    brand: 'Alcatel'
+    model: 'OT-S319A'
+
+  - user_agent_string: 'Alcatel-OT-S320'
+    family: 'Alcatel OT-S320'
+    brand: 'Alcatel'
+    model: 'OT-S320'
+
+  - user_agent_string: 'Alcatel-OT-S320A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S320A'
+    brand: 'Alcatel'
+    model: 'OT-S320A'
+
+  - user_agent_string: 'Alcatel-OT-S321A'
+    family: 'Alcatel OT-S321A'
+    brand: 'Alcatel'
+    model: 'OT-S321A'
+
+  - user_agent_string: 'Alcatel-OT-S520/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S520'
+    brand: 'Alcatel'
+    model: 'OT-S520'
+
+  - user_agent_string: 'Alcatel-OT-S520A'
+    family: 'Alcatel OT-S520A'
+    brand: 'Alcatel'
+    model: 'OT-S520A'
+
+  - user_agent_string: 'Alcatel-OT-S521A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S521A'
+    brand: 'Alcatel'
+    model: 'OT-S521A'
+
+  - user_agent_string: 'Alcatel-OT-S607A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S607A'
+    brand: 'Alcatel'
+    model: 'OT-S607A'
+
+  - user_agent_string: 'ALCATEL-OT-S621'
+    family: 'Alcatel OT-S621'
+    brand: 'Alcatel'
+    model: 'OT-S621'
+
+  - user_agent_string: 'Alcatel-OT-S621A'
+    family: 'Alcatel OT-S621A'
+    brand: 'Alcatel'
+    model: 'OT-S621A'
+
+  - user_agent_string: 'Alcatel-OT-S626A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-S626A'
+    brand: 'Alcatel'
+    model: 'OT-S626A'
+
+  - user_agent_string: 'Alcatel-OT-S853/1.0 UP.Browser/7.1 (GUI) MMP/2.0'
+    family: 'Alcatel OT-S853'
+    brand: 'Alcatel'
+    model: 'OT-S853'
+
+  - user_agent_string: 'Alcatel-OT-S860/1.0 UP.Browser/7.1 (GUI) MMP/2.0'
+    family: 'Alcatel OT-S860'
+    brand: 'Alcatel'
+    model: 'OT-S860'
+
+  - user_agent_string: 'ALCATEL-OT-S920'
+    family: 'Alcatel OT-S920'
+    brand: 'Alcatel'
+    model: 'OT-S920'
+
+  - user_agent_string: 'Alcatel-OT-V570/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-V570'
+    brand: 'Alcatel'
+    model: 'OT-V570'
+
+  - user_agent_string: 'Alcatel-OT-V570A/1.0 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-V570A'
+    brand: 'Alcatel'
+    model: 'OT-V570A'
+
+  - user_agent_string: 'ALCATEL-OT-V670'
+    family: 'Alcatel OT-V670'
+    brand: 'Alcatel'
+    model: 'OT-V670'
+
+  - user_agent_string: 'Alcatel-OT-V670A'
+    family: 'Alcatel OT-V670A'
+    brand: 'Alcatel'
+    model: 'OT-V670A'
+
+  - user_agent_string: 'ALCATEL-OT-V770'
+    family: 'Alcatel OT-V770'
+    brand: 'Alcatel'
+    model: 'OT-V770'
+
+  - user_agent_string: 'Alcatel-OT-v770/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-v770'
+    brand: 'Alcatel'
+    model: 'OT-v770'
+
+  - user_agent_string: 'Alcatel-OT-V770A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-V770A'
+    brand: 'Alcatel'
+    model: 'OT-V770A'
+
+  - user_agent_string: 'Alcatel-OT-v770A/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C'
+    family: 'Alcatel OT-v770A'
+    brand: 'Alcatel'
+    model: 'OT-v770A'
+
+  - user_agent_string: 'Alcatel-OT153'
+    family: 'Alcatel OT153'
+    brand: 'Alcatel'
+    model: 'OT153'
+
+  - user_agent_string: 'Alcatel-TH3/1.0 UP.Browser/6.2.ALCATEL MMP/1.0'
+    family: 'Alcatel TH3'
+    brand: 'Alcatel'
+    model: 'TH3'
+
+  - user_agent_string: 'ALCATEL-TH4'
+    family: 'Alcatel TH4'
+    brand: 'Alcatel'
+    model: 'TH4'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; Fine10 Joy Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Fine10 Joy'
+    brand: 'Allfine'
+    model: 'Fine10 Joy'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; FINE7 GENIUS Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.166 Safari/537.36 OPR/20.0.1396.73172'
+    family: 'FINE7 GENIUS'
+    brand: 'Allfine'
+    model: 'FINE7 GENIUS'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; ALLVIEWSPEED Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'ALLVIEWSPEED'
+    brand: 'Allview'
+    model: 'SPEED'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; AllviewSpeed Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Safari/537.36'
+    family: 'AllviewSpeed'
+    brand: 'Allview'
+    model: 'Speed'
+
+  - user_agent_string: 'Android 4.0.3;AppleWebKit/534.30;Build/IML74K;AllviewSpeed2 Build/IML74K'
+    family: 'AllviewSpeed2'
+    brand: 'Allview'
+    model: 'Speed2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; AllviewSpeed2+ Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'AllviewSpeed2+'
+    brand: 'Allview'
+    model: 'Speed2+'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; ro-ro; AllviewSpeed3 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'AllviewSpeed3'
+    brand: 'Allview'
+    model: 'Speed3'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; AllviewSpeed3G Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'AllviewSpeed3G'
+    brand: 'Allview'
+    model: 'Speed3G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; AllviewSpeed3HD Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36'
+    family: 'AllviewSpeed3HD'
+    brand: 'Allview'
+    model: 'Speed3HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; ro-ro; AllviewSpeed3T Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'AllviewSpeed3T'
+    brand: 'Allview'
+    model: 'Speed3T'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; AllviewSpeedDuo Build/JRO03C) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'AllviewSpeedDuo'
+    brand: 'Allview'
+    model: 'SpeedDuo'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; AllviewSpeedEco Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'AllviewSpeedEco'
+    brand: 'Allview'
+    model: 'SpeedEco'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; AllviewSpeedi Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'AllviewSpeedi'
+    brand: 'Allview'
+    model: 'Speedi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALLVIEW SPEEDI Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'ALLVIEW SPEEDI'
+    brand: 'Allview'
+    model: 'SPEEDI'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; ro-ro; AllviewSpeedSatelite Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'AllviewSpeedSatelite'
+    brand: 'Allview'
+    model: 'SpeedSatelite'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; AllviewSpeedSatellite Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'AllviewSpeedSatellite'
+    brand: 'Allview'
+    model: 'SpeedSatellite'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Allview_AX1_Shine Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36'
+    family: 'Allview_AX1_Shine'
+    brand: 'Allview'
+    model: 'AX1_Shine'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; bg-bg; AX2_Frenzy Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'AX2_Frenzy'
+    brand: 'Allview'
+    model: 'AX2_Frenzy'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; ro-ro; Allview 2 Speed QUAD Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Allview 2 Speed QUAD'
+    brand: 'Allview'
+    model: '2 Speed QUAD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; ALLVIEW3CONECT Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'ALLVIEW3CONECT'
+    brand: 'Allview'
+    model: '3CONECT'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; Allview3SpeedQuad Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Allview3SpeedQuad'
+    brand: 'Allview'
+    model: '3SpeedQuad'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3; de-de; ALLVIEW A4ALL Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'ALLVIEW A4ALL'
+    brand: 'Allview'
+    model: 'A4ALL'
+
+  - user_agent_string: 'YahooMobile/1.0 (im; 1.8.4.15957); (Linux; U; Android 4.0.4; AllviewAX2 Build/Unknown);'
+    family: 'AllviewAX2'
+    brand: 'Allview'
+    model: 'AX2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; AllviewAX2Frenzy Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36'
+    family: 'AllviewAX2Frenzy'
+    brand: 'Allview'
+    model: 'AX2Frenzy'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; AllviewCity Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'AllviewCity'
+    brand: 'Allview'
+    model: 'City'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; el-gr; AllviewCityLife Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'AllviewCityLife'
+    brand: 'Allview'
+    model: 'CityLife'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; de-de; ALLVIEW_P1 Build/MASTER) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'ALLVIEW_P1'
+    brand: 'Allview'
+    model: 'P1'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; de-de; Allview_P2 Build/ALPS.GB.FDD2.MP.V3.9) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Allview_P2'
+    brand: 'Allview'
+    model: 'P2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; En-us; ALLVIEW P4 Build/IML74K) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW P4'
+    brand: 'Allview'
+    model: 'P4'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; ALLVIEW P4i Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW P4i'
+    brand: 'Allview'
+    model: 'P4i'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; ALLVIEW P5 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW P5'
+    brand: 'Allview'
+    model: 'P5'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; ALLVIEW_P5_Qmax Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW_P5_Qmax'
+    brand: 'Allview'
+    model: 'P5_Qmax'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; bg-bg; ALLVIEW_P5_Quad Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW_P5_Quad'
+    brand: 'Allview'
+    model: 'P5_Quad'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; Allview P5-Mini Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Allview P5-Mini'
+    brand: 'Allview'
+    model: 'P5-Mini'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; ALLVIEW P6 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW P6'
+    brand: 'Allview'
+    model: 'P6'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; ALLVIEW_P6_Quad Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'ALLVIEW_P6_Quad'
+    brand: 'Allview'
+    model: 'P6_Quad'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; ALLVIEW_TX1_Quasar Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36'
+    family: 'ALLVIEW_TX1_Quasar'
+    brand: 'Allview'
+    model: 'TX1_Quasar'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; Allview_Viva_H8 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Allview_Viva_H8'
+    brand: 'Allview'
+    model: 'Viva_H8'
+
+  - user_agent_string: 'YahooMobile/1.0 (im; 1.8.4.15957); (Linux; U; Android 4.0.4; ALLVIEW Build/Unknown);'
+    family: 'ALLVIEW'
+    brand: 'Allview'
+    model:
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; A13-MID Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'A13-MID'
+    brand: 'Allwinner'
+    model: 'A13-MID'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; Allwinner A10 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Allwinner A10'
+    brand: 'Allwinner'
+    model: 'Allwinner'
+
+  - user_agent_string: 'ERO247 Android Application (16, ero247 v2.2.2) - alps Cynus T1 alps - 00000000-67DC-738B-FFFF-FFFF94CF1257'
+    family: 'alps Cynus T1'
+    brand: 'alps'
+    model: 'Cynus T1'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - alps Cynus T2 Cynus - 00000000-37DB-E1C2-FFFF-FFFF9C80BBF7'
+    family: 'alps Cynus T2'
+    brand: 'alps'
+    model: 'Cynus T2'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - alps e1808_v75_jbl1_5640 alps - 00000000-5960-A162-FFFF-FFFFA5707BFB'
+    family: 'alps e1808_v75_jbl1_5640'
+    brand: 'alps'
+    model: 'e1808_v75_jbl1_5640'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - alps GT-i9300 samsung - 00000000-6D81-BF78-F194-E4D41BAF8E9C'
+    family: 'alps GT-i9300'
+    brand: 'alps'
+    model: 'GT-i9300'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - alps GT-N7102 samsung - 00000000-2D04-A521-9D0B-840A04C6DBDF'
+    family: 'alps GT-N7102'
+    brand: 'alps'
+    model: 'GT-N7102'
+
+  - user_agent_string: 'ERO247 Android Application (13, ero247 v2.1) - alps i-Call 701  alps - 00000000-0618-3249-D391-DE291A3086DF'
+    family: 'alps i-Call 701'
+    brand: 'alps'
+    model: 'i-Call 701'
+
+  - user_agent_string: 'VMVID Android Application (16, vmvid v2.2.2) - alps X8quad.pro alps - 00000000-5C91-AD3F-FFFF-FFFFA7293530'
+    family: 'alps X8quad.pro'
+    brand: 'alps'
+    model: 'X8quad.pro'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.6; de-de; A651 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'A651'
+    brand: 'Amaway'
+    model: 'A651'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; A701B Build/IMM76D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22'
+    family: 'A701B'
+    brand: 'Amaway'
+    model: 'A701B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; A702 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'A702'
+    brand: 'Amaway'
+    model: 'A702'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; A801 Build/IMM76I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36 OPR/18.0.1290.67495'
+    family: 'A801'
+    brand: 'Amaway'
+    model: 'A801'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; A803 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'A803'
+    brand: 'Amaway'
+    model: 'A803'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; KFOT Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/535.19'
+    family: 'Kindle Fire'
+    brand: 'Amazon'
+    model: 'Kindle Fire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; Amazon Kindle Fire2 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36'
+    family: 'Kindle Fire 2'
+    brand: 'Amazon'
+    model: 'Kindle Fire 2'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; KFTT Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Kindle Fire HD'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 7"'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; KFJWI Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/535.19'
+    family: 'Kindle Fire HD 8.9" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 8.9" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; KFJWA Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Kindle Fire HD 8.9" 4G'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 8.9" 4G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; KFSOWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Kindle Fire HD 7" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD 7" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'Kindle Fire HDX 7" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 7" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; KFTHWA Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
+    family: 'Kindle Fire HDX 7" 4G'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 7" 4G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; KFAPWI Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'Kindle Fire HDX 8.9" WiFi'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 8.9" WiFi'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; KFAPWA Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36'
+    family: 'Kindle Fire HDX 8.9" 4G'
+    brand: 'Amazon'
+    model: 'Kindle Fire HDX 8.9" 4G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; Amazon Jem Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36'
+    family: 'Jem'
+    brand: 'Amazon'
+    model: 'Jem'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; Amazon Kindle Fire Build/MR1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Kindle Fire'
+    brand: 'Amazon'
+    model: 'Kindle Fire'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; Amazon Kindle Fire HD Build/JDQ39E) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'Kindle Fire HD'
+    brand: 'Amazon'
+    model: 'Kindle Fire HD'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; Amazon Otter Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36'
+    family: 'Otter'
+    brand: 'Amazon'
+    model: 'Otter'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.4.2; Amazon Tate Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36'
+    family: 'Tate'
+    brand: 'Amazon'
+    model: 'Tate'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.0 (screen 600x800)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 2.0'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.1 (screen 600x800)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 2.1'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.3 (screen 1200x824; rotate)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 2.3'
+
+  - user_agent_string: 'Mozilla/4.0 (compatible; Linux 2.6.22) NetFront/3.4 Kindle/2.5 (screen 1200x824; rotate)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 2.5'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux U; En-US) AppleWebKit/528.5 (KHTML, Like Gecko, Safari/528.5 ) Version/4.0 Kindle/3.0 (screen 600x800; Rotate)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 3.0'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.3 (screen 600x800; rotate)'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle 3.3'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.4; de-de; Silk/1.0.22.153_10033210) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 Silk-Accelerated=true'
+    family: 'Kindle'
+    brand: 'Amazon'
+    model: 'Kindle'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.1; zh-CN; AMOI A920W Build/JOP40D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 UCBrowser/9.4.2.365 U3/0.8.0 Mobile Safari/533.1'
+    family: 'Amoi A920W'
+    brand: 'Amoi'
+    model: 'A920W'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; zh-cn; AMOI E800C Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 baiduboxapp/042_8.3_diordna_458_084/IOMA_51_4.0.4_C008E+IOMA/1494a/04FFF341C445E0FAA0EA951A022CEDAA|A1b2aea3200001a/1'
+    family: 'Amoi E800C'
+    brand: 'Amoi'
+    model: 'E800C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; AMOI M8228 Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'
+    family: 'Amoi M8228'
+    brand: 'Amoi'
+    model: 'M8228'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.6; en-US; AMOI N808 Build/GRK39F) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Amoi N808'
+    brand: 'Amoi'
+    model: 'N808'
+
+  - user_agent_string: 'Mozilla 5.0 (Linux; U; Android 4.0.4; zh-cn; AMOI N820 Build IMM76D) UC AppleWebKit 534.31 (KHTML, like Gecko) Mobile Safari 534.31'
+    family: 'Amoi N820'
+    brand: 'Amoi'
+    model: 'N820'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1;  AMOI N821 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19'
+    family: 'Amoi N821'
+    brand: 'Amoi'
+    model: 'N821'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; AMOI N828 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Mobile Safari/537.36'
+    family: 'Amoi N828'
+    brand: 'Amoi'
+    model: 'N828'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; AMOI N828 - Port to THL W100 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Amoi N828 - Port to THL W100'
+    brand: 'Amoi'
+    model: 'N828 - Port to THL W100'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; AMOI N850 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Mobile Safari/537.36'
+    family: 'Amoi N850'
+    brand: 'Amoi'
+    model: 'N850'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.5; en-US; AMOI_N89 Build/GRJ90) AppleWebKit/534.31 (KHTML, like Gecko) UCBrowser/9.0.2.299 U3/0.8.0 Mobile Safari/534.31'
+    family: 'Amoi N89'
+    brand: 'Amoi'
+    model: 'N89'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.1; AMOI N890 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.64 Mobile Safari/537.36'
+    family: 'Amoi N890'
+    brand: 'Amoi'
+    model: 'N890'
+
+  - user_agent_string: 'AMOI M8228 Linux/3.0.13 Android/4.0.4 Release/11.06.2012 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;'
+    family: 'Amoi M8228'
+    brand: 'Amoi'
+    model: 'M8228'
+
+  - user_agent_string: 'AMOI N808 Linux/3.0.13 Android/4.0.4 Release/08.22.2012 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;'
+    family: 'Amoi N808'
+    brand: 'Amoi'
+    model: 'N808'
+
+  - user_agent_string: 'AMOI N816 Linux/3.0.13 Android/4.0.4 Release/01.25.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;'
+    family: 'Amoi N816'
+    brand: 'Amoi'
+    model: 'N816'
+
+  - user_agent_string: 'AMOI N820 Linux/3.0.13 Android/4.0.4 Release/08.02.2012 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;'
+    family: 'Amoi N820'
+    brand: 'Amoi'
+    model: 'N820'
+
+  - user_agent_string: 'AMOI N821 Linux/3.0.13 Android/4.0.4 Release/12.19.2012 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;'
+    family: 'Amoi N821'
+    brand: 'Amoi'
+    model: 'N821'
+
+  - user_agent_string: 'AMOI-8512'
+    family: 'Amoi 8512'
+    brand: 'Amoi'
+    model: '8512'
+
+  - user_agent_string: 'Amoi-A310'
+    family: 'Amoi A310'
+    brand: 'Amoi'
+    model: 'A310'
+
+  - user_agent_string: 'Amoi-A320/Plat-F-VIM/WAP2.0 UP.Browser/6.2.2.7.c.1.101 (GUI) MMP/1.0'
+    family: 'Amoi A320'
+    brand: 'Amoi'
+    model: 'A320'
+
+  - user_agent_string: 'Amoi-A500'
+    family: 'Amoi A500'
+    brand: 'Amoi'
+    model: 'A500'
+
+  - user_agent_string: 'Amoi-A660/Plat-V-FT/WAP2.0/MIDP2.0/CLDC1.0 UP.Browser/6.2.3.3 (GUI) MMP/2.0'
+    family: 'Amoi A660'
+    brand: 'Amoi'
+    model: 'A660'
+
+  - user_agent_string: 'Amoi-A865/Plat-V-FT/WAP2.0/MIDP2.0/CLDC1.0 UP.Browser/6.2.3.8.c.1.101 (GUI) MMP/2.0'
+    family: 'Amoi A865'
+    brand: 'Amoi'
+    model: 'A865'
+
+  - user_agent_string: 'Amoi-A869/Plat-V-FT/WAP2.0/MIDP2.0/CLDC1.0'
+    family: 'Amoi A869'
+    brand: 'Amoi'
+    model: 'A869'
+
+  - user_agent_string: 'Amoi-CA6'
+    family: 'Amoi CA6'
+    brand: 'Amoi'
+    model: 'CA6'
+
+  - user_agent_string: 'Amoi-CA8/1.0 UP.Browser/6.2.2.5 (GUI) MMP/1.0'
+    family: 'Amoi CA8'
+    brand: 'Amoi'
+    model: 'CA8'
+
+  - user_agent_string: 'Amoi-CS6'
+    family: 'Amoi CS6'
+    brand: 'Amoi'
+    model: 'CS6'
+
+  - user_agent_string: 'Amoi-D80/Plat-F/WAP2.0/MIDP1.0/CLDC1.0 UP.Browser/6.2.2.7.c.1.101 (GUI) MMP/1.0'
+    family: 'Amoi D80'
+    brand: 'Amoi'
+    model: 'D80'
+
+  - user_agent_string: 'Amoi-D85'
+    family: 'Amoi D85'
+    brand: 'Amoi'
+    model: 'D85'
+
+  - user_agent_string: 'Amoi-DF9/Plat-F/WAP2.0/MIDP1.0/CLDC1.0 UP.Browser/6.2.2.7.c.1.101 (GUI) MMP/1.0'
+    family: 'Amoi DF9'
+    brand: 'Amoi'
+    model: 'DF9'
+
+  - user_agent_string: 'Amoi-DV6/Plat-V/WAP2.0/MIDP2.0/CLDC1.0 UP.Browser/6.2.3.3 (GUI) MMP/2.0'
+    family: 'Amoi DV6'
+    brand: 'Amoi'
+    model: 'DV6'
+
+  - user_agent_string: 'Amoi-E5/(2006.10.21)SW1.0.2/WAP2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1'
+    family: 'Amoi E5'
+    brand: 'Amoi'
+    model: 'E5'
+
+  - user_agent_string: 'AMOI-E50'
+    family: 'Amoi E50'
+    brand: 'Amoi'
+    model: 'E50'
+
+  - user_agent_string: 'AMOI-E72/1.0/WAP2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Smartphone)/UCWEB7.0.0.33/33/800'
+    family: 'Amoi E72'
+    brand: 'Amoi'
+    model: 'E72'
+
+  - user_agent_string: 'Amoi-F60/Plat-F/WAP2.0/MIDP1.0/CLDC1.0 UP.Browser/6.2.2.6.f.1.100 (GUI) MMP/1.0'
+    family: 'Amoi F60'
+    brand: 'Amoi'
+    model: 'F60'
+
+  - user_agent_string: 'Amoi-F620/Plat-V-VIM/WAP2.0 UP.Browser/6.2.3.8.c.1.101 (GUI) MMP/2.0'
+    family: 'Amoi F620'
+    brand: 'Amoi'
+    model: 'F620'
+
+  - user_agent_string: 'Amoi-F8'
+    family: 'Amoi F8'
+    brand: 'Amoi'
+    model: 'F8'
+
+  - user_agent_string: 'Amoi-F90/Plat-F/WAP2.0/MIDP1.0/CLDC1.0 UP.Browser/6.2.2.6.f.1.100 (GUI) MMP/1.0'
+    family: 'Amoi F90'
+    brand: 'Amoi'
+    model: 'F90'
+
+  - user_agent_string: 'Amoi-H9/Plat-EMP/WAP2.0/MIDP2.0/CLDC1.0'
+    family: 'Amoi H9'
+    brand: 'Amoi'
+    model: 'H9'
+
+  - user_agent_string: 'AMOI-M30/Plat-M38002/WAP2.0 Profile'
+    family: 'Amoi M30'
+    brand: 'Amoi'
+    model: 'M30'
+
+  - user_agent_string: 'Amoi-M350/Plat-V-VIM/WAP2.0/MIDP2.0/CLDC1.0 UP.Browser/6.2.3.3 (GUI) MMP/2.0'
+    family: 'Amoi M350'
+    brand: 'Amoi'
+    model: 'M350'
+
+  - user_agent_string: 'Amoi-M515/(2006.10.21)SW1.0.2/WAP2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1'
+    family: 'Amoi M515'
+    brand: 'Amoi'
+    model: 'M515'
+
+  - user_agent_string: 'Amoi-M6/Plat-EMP/WAP2.0/MIDP2.0/CLDC1.0'
+    family: 'Amoi M6'
+    brand: 'Amoi'
+    model: 'M6'
+
+  - user_agent_string: 'Amoi-M630/Plat-V-FT/WAP2.0/MIDP2.0/CLDC1.0'
+    family: 'Amoi M630'
+    brand: 'Amoi'
+    model: 'M630'
+
+  - user_agent_string: 'Amoi-M636'
+    family: 'Amoi M636'
+    brand: 'Amoi'
+    model: 'M636'
+
+  - user_agent_string: 'Amoi-M8/Plat-EMP/WAP2.0/MIDP2.0/CLDC1.0'
+    family: 'Amoi M8'
+    brand: 'Amoi'
+    model: 'M8'
+
+  - user_agent_string: 'AMOI-N810'
+    family: 'Amoi N810'
+    brand: 'Amoi'
+    model: 'N810'
+
+  - user_agent_string: 'Amoi-S6/1.0 UP.Browser/5.0.3.2 (GUI)'
+    family: 'Amoi S6'
+    brand: 'Amoi'
+    model: 'S6'
+
+  - user_agent_string: 'Amoi-V600/Plat-EMP/WAP2.0/MIDP2.0/CLDC1.0 UP.Link/5.1.2.6'
+    family: 'Amoi V600'
+    brand: 'Amoi'
+    model: 'V600'
+
+  - user_agent_string: 'AMOI-V810 NetFront/3.2'
+    family: 'Amoi V810'
+    brand: 'Amoi'
+    model: 'V810'
+
+  - user_agent_string: 'VMVID Android Application (13, vmvid v2.1) - Android A5000 Android - FFFFFFFF-D5C0-104D-FFFF-FFFFA84CD02B'
+    family: 'Android A5000'
+    brand: 'Android'
+    model: 'A5000'
+
+  - user_agent_string: 'XCON Android Application (16, xcon v2.2.2) - Android GT-I9500 Android - 00000000-547E-0C45-A061-D4DB60CC9BA8'
+    family: 'Android GT-I9500'
+    brand: 'Android'
+    model: 'GT-I9500'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; MW0710 Build/IMM76D) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31'
+    family: 'MW0710'
+    brand: 'Aoc'
+    model: 'MW0710'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; MW0711 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'MW0711'
+    brand: 'Aoc'
+    model: 'MW0711'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; MW0712 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'MW0712'
+    brand: 'Aoc'
+    model: 'MW0712'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; MW0731 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'MW0731'
+    brand: 'Aoc'
+    model: 'MW0731'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; MW0731PLUS Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36 OPR/16.0.1212.63780'
+    family: 'MW0731PLUS'
+    brand: 'Aoc'
+    model: 'MW0731PLUS'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.1-update1-1.0.0; En-us; MW0811 Build/ECLAIR) AppleWebKit/530.17 (KHTML, Like Gecko) Version/4.0 Mobile Safari/530.17'
+    family: 'MW0811'
+    brand: 'Aoc'
+    model: 'MW0811'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.1; de-li; MW0812 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'MW0812'
+    brand: 'Aoc'
+    model: 'MW0812'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.1; en-; MW0812_V2.0 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'MW0812_V2.0'
+    brand: 'Aoc'
+    model: 'MW0812_V2.0'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.1; en-us ; MW0821 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.4.1.204/145/355'
+    family: 'MW0821'
+    brand: 'Aoc'
+    model: 'MW0821'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 2.3.1; MW0821_V2.0 Build/GINGERBREAD) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31 OPR/14.0.1074.57453'
+    family: 'MW0821_V2.0'
+    brand: 'Aoc'
+    model: 'MW0821_V2.0'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; MW0821+ Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'MW0821+'
+    brand: 'Aoc'
+    model: 'MW0821+'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; MW0831 Build/JRO03H) AppleWebKit/537.36 (KHTML, Like Gecko) Chrome/29.0.1547.72 Safari/537.36 OPR/16.0.1212.63780'
+    family: 'MW0831'
+    brand: 'Aoc'
+    model: 'MW0831'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; Es-es; MW0831Plus Build/JRO03H) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Safari/534.30'
+    family: 'MW0831Plus'
+    brand: 'Aoc'
+    model: 'MW0831Plus'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; MW0922 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'MW0922'
+    brand: 'Aoc'
+    model: 'MW0922'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; MW0931 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'MW0931'
+    brand: 'Aoc'
+    model: 'MW0931'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; G7 Build/MASTER) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Aoson G7'
+    brand: 'Aoson'
+    model: 'G7'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; En-de; M-12 Build/JRO03H) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M-12'
+    brand: 'Aoson'
+    model: 'M-12'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; M1013 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M1013'
+    brand: 'Aoson'
+    model: 'M1013'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; M11 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Aoson M11'
+    brand: 'Aoson'
+    model: 'M11'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.1.1; M11C Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Aoson M11C'
+    brand: 'Aoson'
+    model: 'M11C'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; ar-eg; M11G Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M11G'
+    brand: 'Aoson'
+    model: 'M11G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; M12 Build/IMM76D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Mobile Safari/537.22'
+    family: 'Aoson M12'
+    brand: 'Aoson'
+    model: 'M12'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.3.1; ar-eg; M12B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
+    family: 'Aoson M12B'
+    brand: 'Aoson'
+    model: 'M12B'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; M19 Build/IML74K) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 YaBrowser/1.0.1364.172 Safari/537.22'
+    family: 'Aoson M19'
+    brand: 'Aoson'
+    model: 'M19'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; M713 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19'
+    family: 'Aoson M713'
+    brand: 'Aoson'
+    model: 'M713'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.3; M71G Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19'
+    family: 'Aoson M71G'
+    brand: 'Aoson'
+    model: 'M71G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.0.4; M71GS Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Safari/537.36'
+    family: 'Aoson M71GS'
+    brand: 'Aoson'
+    model: 'M71GS'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; M72 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M72'
+    brand: 'Aoson'
+    model: 'M72'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.1; en-us ; M721 Build/MASTER) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.6.1.262/145/355'
+    family: 'Aoson M721'
+    brand: 'Aoson'
+    model: 'M721'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 4.2.2; M723 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Safari/537.36'
+    family: 'Aoson M723'
+    brand: 'Aoson'
+    model: 'M723'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; M73 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    family: 'Aoson M73'
+    brand: 'Aoson'
+    model: 'M73'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; nl-nl; M785 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M785'
+    brand: 'Aoson'
+    model: 'M785'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; M92S Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M92S'
+    brand: 'Aoson'
+    model: 'M92S'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; Aoson M19 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M19'
+    brand: 'Aoson'
+    model: 'M19'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.1.1; zh-cn; aoson m33 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) BdMobile/2.3 Version/4.0 Safari/534.30 zhangbai/023_4.0.3.2_diordna_2591_6351/nosoa_61_1.1.4_33m-nosoa/1399k/70557677FDF5D05DE6268CD827FC095D|0/1'
+    family: 'Aoson m33'
+    brand: 'Aoson'
+    model: 'm33'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; aoson M33 3G Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30'
+    family: 'Aoson M33 3G'
+    brand: 'Aoson'
+    model: 'M33 3G'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 1.6; 2.1-update1; en-us; apanda-A60 Build/ERE27; apanda-A60 Build/DONUT) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1'
+    family: 'Apanda A60'
+    brand: 'Apanda'
+    model: 'A60'
+
+  - user_agent_string: 'Mozilla/5.0 (Linux; U; Android 2.2.2; en-US; apanda_A80S Build/FRG83G) AppleWebKit/534.31 (KHTML, like Gecko) UCBrowser/9.3.1.344 U3/0.8.0 Mobile Safari/534.31'
+    family: 'Apanda A80S'
+    brand: 'Apanda'
+    model: 'A80S'
+
+  - user_agent_string: 'AppleTV/1.1'
+    family: 'AppleTV'
+    brand: 'Apple'
+    model: 'AppleTV'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad compatibility; U; CPU iPhone OS 5_1_1 like Mac OS X; HW iPad1,1; de_de) AppleWebKit/525.18.1 (KHTML, like Gecko) (AdMob-iSDK-20100614; iphoneos4.2)'
+    family: 'iPad1,1'
+    brand: 'Apple'
+    model: 'iPad1,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad2,1; iPad; U; CPU OS 6_1_3 like Mac OS X; de_DE) com.google.GooglePlus/23341 (KHTML, like Gecko) Mobile/K93AP (gzip)'
+    family: 'iPad2,1'
+    brand: 'Apple'
+    model: 'iPad2,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad compatibility; U; CPU iPhone OS 4_3_3 like Mac OS X; HW iPad2,2; de_de) AppleWebKit/525.18.1 (KHTML, like Gecko) (AdMob-iSDK-20100614; iphoneos4.1)'
+    family: 'iPad2,2'
+    brand: 'Apple'
+    model: 'iPad2,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 [FBAN/FBIOS;FBAV/8.0.0.28.18;FBBV/1665515;FBDV/iPad2,3;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0;FBSS/1; FBCR/Verizon;FBID/tablet;FBLC/de_DE;FBOP/1]'
+    family: 'iPad2,3'
+    brand: 'Apple'
+    model: 'iPad2,3'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad2,4; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/K93aAP (gzip)'
+    family: 'iPad2,4'
+    brand: 'Apple'
+    model: 'iPad2,4'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad2,5; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/P105AP (gzip)'
+    family: 'iPad2,5'
+    brand: 'Apple'
+    model: 'iPad2,5'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B147 [FBAN/FBIOS;FBAV/6.2;FBBV/228172;FBDV/iPad2,6;FBMD/iPad;FBSN/iPhone OS;FBSV/6.1.2;FBSS/1; FBCR/Carrier;FBID/tablet;FBLC/en_US;FBOP/1]'
+    family: 'iPad2,6'
+    brand: 'Apple'
+    model: 'iPad2,6'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad2,7; iOS 7.0.3) FreeWheelAdManager/5.8.3-r10206-201309100316;com.vevo.iphone VEVO/6025'
+    family: 'iPad2,7'
+    brand: 'Apple'
+    model: 'iPad2,7'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad3,1; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/J1AP (gzip)'
+    family: 'iPad3,1'
+    brand: 'Apple'
+    model: 'iPad3,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B206 [FBAN/FBIOS;FBAV/5.4.2;FBBV/114387;FBDV/iPad3,2;FBMD/iPad;FBSN/iPhone OS;FBSV/5.1.1;FBSS/2; FBCR/Carrier;FBID/tablet;FBLC/en_US]'
+    family: 'iPad3,2'
+    brand: 'Apple'
+    model: 'iPad3,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad3,4; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/P101AP (gzip)'
+    family: 'iPad3,4'
+    brand: 'Apple'
+    model: 'iPad3,4'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A8426 [FBAN/FBIOS;FBAV/7.0.0.17.1;FBBV/1325030;FBDV/iPad3,5;FBMD/iPad;FBSN/iPhone OS;FBSV/6.0.1;FBSS/2; FBCR/AT&T;FBID/tablet;FBLC/en_US;FBOP/1]'
+    family: 'iPad3,5'
+    brand: 'Apple'
+    model: 'iPad3,5'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad3,6; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/P103AP (gzip)'
+    family: 'iPad3,6'
+    brand: 'Apple'
+    model: 'iPad3,6'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad4,1; iPad; U; CPU OS 7_0_6 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/J71AP (gzip)'
+    family: 'iPad4,1'
+    brand: 'Apple'
+    model: 'iPad4,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad4,2; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/J72AP (gzip)'
+    family: 'iPad4,2'
+    brand: 'Apple'
+    model: 'iPad4,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad4,4; iPad; U; CPU OS 7_0_4 like Mac OS X; de_DE) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/J85AP (gzip)'
+    family: 'iPad4,4'
+    brand: 'Apple'
+    model: 'iPad4,4'
+
+  - user_agent_string: 'Mozilla/5.0 (iPad4,5; iOS 7.0.4) FreeWheelAdManager/5.3.0-r9485-201301220720;com.cnn.iphone CNN/4622'
+    family: 'iPad4,5'
+    brand: 'Apple'
+    model: 'iPad4,5'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; HW iPhone1,1; de_de) AppleWebKit/525.18.1 (KHTML, like Gecko) (AdMob-iSDK-20090617)'
+    family: 'iPhone1,1'
+    brand: 'Apple'
+    model: 'iPhone1,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; CPU iPhone 4_2_1 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Grindr/1.8.5 (iPhone1,2/4.2.1)'
+    family: 'iPhone1,2'
+    brand: 'Apple'
+    model: 'iPhone1,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone2,1; iOS 4.3.5) FreeWheelAdManager/4.6.5-r8099-201204100535;com.vevo.iphone VEVO/5661'
+    family: 'iPhone2,1'
+    brand: 'Apple'
+    model: 'iPhone2,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone3,1; iOS 6.1.3) FreeWheelAdManager/5.3.0-r9485-201301220720;com.cnn.iphone CNN/4254'
+    family: 'iPhone3,1'
+    brand: 'Apple'
+    model: 'iPhone3,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523 [FBAN/FBIOS;FBAV/5.5;FBBV/123337;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.0.1;FBSS/2; FBCR/o2-de;FBID/phone;FBLC/de_DE;FBOP/0]'
+    family: 'iPhone3,2'
+    brand: 'Apple'
+    model: 'iPhone3,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B206 [FBAN/FBIOS;FBAV/5.2.2;FBBV/82131;FBDV/iPhone3,3;FBMD/iPhone;FBSN/iPhone OS;FBSV/5.1.1;FBSS/2; FBCR/Verizon;FBID/phone;FBLC/de_DE]'
+    family: 'iPhone3,3'
+    brand: 'Apple'
+    model: 'iPhone3,3'
+
+  - user_agent_string: 'Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20100101 Firefox/10.0 [FBAN/FBIOS;FBAV/8.0.0.28.18;FBBV/1665515;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Telekom.de;FBID/phone;FBLC/de_DE;FBOP/5]'
+    family: 'iPhone4,1'
+    brand: 'Apple'
+    model: 'iPhone4,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A405 [FBAN/FBIOS;FBAV/6.8;FBBV/745892;FBDV/iPhone5,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.0;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/en_US;FBOP/5]'
+    family: 'iPhone5,1'
+    brand: 'Apple'
+    model: 'iPhone5,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone5,2; iOS 7.0.3) FreeWheelAdManager/5.8.3-r10206-201309100316;com.vevo.iphone VEVO/5987'
+    family: 'iPhone5,2'
+    brand: 'Apple'
+    model: 'iPhone5,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A466 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,3;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0;FBSS/2; FBCR/o2-de;FBID/phone;FBLC/es_ES;FBOP/5]'
+    family: 'iPhone5,3'
+    brand: 'Apple'
+    model: 'iPhone5,3'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone5,4; iPhone; U; CPU OS 7_0_5 like Mac OS X; de_AT) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/N49AP (gzip)'
+    family: 'iPhone5,4'
+    brand: 'Apple'
+    model: 'iPhone5,4'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone6,1; iPhone; U; CPU OS 7_0_4 like Mac OS X; ar_SA) com.google.GooglePlus/29676 (KHTML, like Gecko) Mobile/N51AP (gzip)'
+    family: 'iPhone6,1'
+    brand: 'Apple'
+    model: 'iPhone6,1'
+
+  - user_agent_string: 'Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20100101 Firefox/10.0 [FBAN/FBIOS;FBAV/7.0.0.17.1;FBBV/1325030;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.6;FBSS/2; FBCR/Telekom.de;FBID/phone;FBLC/de_DE;FBOP/5]'
+    family: 'iPhone6,2'
+    brand: 'Apple'
+    model: 'iPhone6,2'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; CPU iPhone 4_2_1 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Grindr/1.8.5 (iPod2,1/4.2.1)'
+    family: 'iPod2,1'
+    brand: 'Apple'
+    model: 'iPod2,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; CPU iPhone 5_1_1 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Grindr/1.8.8 (iPod3,1/5.1.1)'
+    family: 'iPod3,1'
+    brand: 'Apple'
+    model: 'iPod3,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPhone; U; CPU iPhone 6_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Grindr/1.8.8 (iPod4,1/6.1.3)'
+    family: 'iPod4,1'
+    brand: 'Apple'
+    model: 'iPod4,1'
+
+  - user_agent_string: 'Mozilla/5.0 (iPod touch; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A4449d [FBAN/FBIOS;FBAV/6.4;FBBV/290891;FBDV/iPod5,1;FBMD/iPod touch;FBSN/iPhone OS;FBSV/7.0;FBSS/2; FBCR/;FBID/phone;FBLC/de_DE;FBOP/1]'
+    family: 'iPod5,1'
+    brand: 'Apple'
+    model: 'iPod5,1'
+
+  - user_agent_string: "Mozilla/5.0 (DG's iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5"
+    family: 'iPod'
+    brand: 'Apple'
+    model: 'iPod'
+
+  - user_agent_string: 'Mozilla/24.0 (iPhone; U; CPU like Mac OS X; de-de)'
+    family: 'iPhone'
+    brand: 'Apple'
+    model: 'iPhone'
+
+  - user_agent_string: 'Mozilla/5.0 (X11; U; Linux x86_64; ar-AE) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/11.0.696.65 Safari/534.35 Puffin/3.10990IT'
+    family: 'iPad'
+    brand: 'Apple'
+    model: 'iPad'
+
+  - user_agent_string: 'Mozilla/5.0 (X11; U; Linux x86_64; ar-SA) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/11.0.696.65 Safari/534.35 Puffin/3.11546IP'
+    family: 'iPhone'
+    brand: 'Apple'
+    model: 'iPhone'
